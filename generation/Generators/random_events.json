@@ -1,0 +1,322 @@
+[
+    {
+        "event": "It's the holiday season and you need gifts. Options: coworker gift ($25), family gift ($200), partner gift ($700), or suggest a no-gift exchange this year ($0).",
+        "probability": 0.109
+    },
+    {
+        "event": "Your anniversary is coming up. Options: a fancy dinner out ($180), concert tickets ($350), a weekend getaway ($900), or a quiet celebration at home ($0).",
+        "probability": 0.099
+    },
+    {
+        "event": "You decide to get serious about fitness. Options: home equipment ($45), new running shoes ($140), a one-year gym membership ($480), or start tomorrow ($0).",
+        "probability": 0.088
+    },
+    {
+        "event": "You crack your smartphone screen. Options: DIY screen replacement kit ($60), third-party repair shop ($150), official manufacturer repair ($299), or live with the cracks ($0).",
+        "probability": 0.077
+    },
+    {
+        "event": "You're invited to a friend's wedding. Options: registry gift ($75), a new outfit ($150), hotel for the weekend ($400), or just give a heartfelt card ($0).",
+        "probability": 0.077
+    },
+    {
+        "event": "There's a sale on smart home devices. Options: smart speaker ($49.99), lighting kit ($129.99), smart thermostat ($249.99), or ignore the sale ($0).",
+        "probability": 0.066
+    },
+    {
+        "event": "Your headphones break. Options: basic earbuds ($29.99), wireless earbuds ($79.99), premium headphones ($349.99), or use an old pair ($0).",
+        "probability": 0.066
+    },
+    {
+        "event": "A new book by your favorite author is out. Options: e-book ($14.99), hardcover ($28.99), collector's box set ($120), or wait for the library version ($0).",
+        "probability": 0.055
+    },
+    {
+        "event": "You're hosting a backyard BBQ. Options: small charcoal grill ($50), standard gas grill ($250), premium grill ($600), or just cook indoors ($0).",
+        "probability": 0.055
+    },
+    {
+        "event": "A heatwave is forecast for next week. Options: a tower fan ($70), a portable AC unit ($350), a window AC unit ($550), or tough it out ($0).",
+        "probability": 0.055
+    },
+    {
+        "event": "Your laptop is getting slow. Options: Chromebook ($350), mid-range Windows laptop ($750), high-end MacBook ($1800), or keep using the old one ($0).",
+        "probability": 0.044
+    },
+    {
+        "event": "You get a flat tire. Options: DIY patch kit ($40), single tire replacement ($220), two new tires ($450), or just use the spare for now ($0).",
+        "probability": 0.033
+    },
+    {
+        "event": "You receive a last-minute invitation to a formal event. Options: rent an outfit ($120), buy a new outfit off the rack ($300), buy a designer piece ($1100), or politely decline the invitation ($0).",
+        "probability": 0.033
+    },
+    {
+        "event": "Your coffee maker breaks. Options: basic drip maker ($35), pod machine ($150), espresso machine ($450), or switch to instant coffee ($0).",
+        "probability": 0.033
+    },
+    {
+        "event": "You get inspired to redecorate the living room. Options: new pillows ($90), art and a rug ($400), new furniture ($850), or decide against it ($0).",
+        "probability": 0.032
+    },
+    {
+        "event": "You want to learn to play the guitar. Options: online lesson subscription ($19.99/mo), beginner guitar pack ($199), a month of private lessons ($280), or postpone it ($0).",
+        "probability": 0.022
+    },
+    {
+        "event": "You decide to get into gardening. Options: a few indoor plants ($60), an outdoor raised garden bed kit ($180), a small greenhouse ($500), or decide you don't have a green thumb ($0).",
+        "probability": 0.022
+    },
+    {
+        "event": "A new gaming console is released. Options: digital edition ($449.99), standard edition ($499.99), bundle ($599.99), or decide to wait ($0).",
+        "probability": 0.011
+    },
+    {
+        "event": "You're thinking of adopting a pet. Options: shelter adoption fee ($150), new pet starter kit ($250), initial vet visit ($300), or decide now is not the right time ($0).",
+        "probability": 0.011
+    },
+    {
+        "event": "A pipe starts leaking under your sink. Options: DIY fix from the hardware store ($50), an emergency plumber visit ($250), plumber visit plus new faucet ($650), or just use a bucket for now ($0).",
+        "probability": 0.011
+    },
+    {
+        "event": "Your car's routine maintenance light comes on. Options: oil change ($80), oil change with tire rotation ($120), full synthetic service with diagnostics ($250), or ignore it for now ($0).",
+        "probability": 0.095
+    },
+    {
+        "event": "A close friend's birthday is next week. Options: buy a thoughtful gift ($50), take them out for a nice dinner ($150), organize a group gift and party ($300), or just send a heartfelt message ($0).",
+        "probability": 0.086
+    },
+    {
+        "event": "You just got a new phone and need a case. Options: basic clear case ($15), protective case from a known brand ($45), premium leather or specialty case ($80), or risk it without a case ($0).",
+        "probability": 0.076
+    },
+    {
+        "event": "One of your streaming services announces a price hike. Options: accept the new price ($17/mo), downgrade to a plan with ads ($11/mo), switch to an annual plan ($180/yr), or cancel the subscription ($0).",
+        "probability": 0.076
+    },
+    {
+        "event": "An annual software subscription is about to renew. Options: renew for one year ($99), upgrade to the professional suite ($240), buy a lifetime license if offered ($400), or cancel and find a free alternative ($0).",
+        "probability": 0.067
+    },
+    {
+        "event": "Your back has been hurting from your work-from-home setup. Options: lumbar support pillow ($35), new mid-range ergonomic office chair ($250), standing desk converter ($400), or just keep using pillows ($0).",
+        "probability": 0.067
+    },
+    {
+        "event": "A much-anticipated blockbuster movie is released. Options: stream it at home when available ($5.99 rental), go to a standard matinee showing ($14), see it in IMAX with popcorn and a drink ($35), or wait until it's on a service you own ($0).",
+        "probability": 0.057
+    },
+    {
+        "event": "You get an ad for a meal kit delivery service with a big discount. Options: try the trial for one week ($40), sign up for a month of meals ($280), get the premium gourmet plan ($450), or delete the email ($0).",
+        "probability": 0.057
+    },
+    {
+        "event": "The weather is perfect for a spontaneous weekend road trip. Options: day trip with gas and food ($100), one-night stay in a motel ($250), two-night stay in a nice hotel with activities ($600), or stay home and relax ($0).",
+        "probability": 0.057
+    },
+    {
+        "event": "A charity you support is having a donation drive. Options: small one-time donation ($25), become a monthly supporter ($30/mo), major gift for a specific project ($250), or offer to volunteer your time instead ($0).",
+        "probability": 0.048
+    },
+    {
+        "event": "Your yard or garden is looking overgrown. Options: buy new gardening tools and fertilizer ($75), rent a power tool like a lawn aerator for the weekend ($150), hire a professional landscaping service ($400), or let nature take its course ($0).",
+        "probability": 0.048
+    },
+    {
+        "event": "You are invited to a child's birthday party. Options: buy a popular toy as a gift ($30), give a larger gift like a LEGO set or scooter ($75), contribute to a big-ticket item the parents are saving for ($150), or have your child make a card ($0).",
+        "probability": 0.048
+    },
+    {
+        "event": "You go for a routine dental check-up. Options: just the cleaning covered by insurance ($0), cleaning plus a recommended filling ($220), a deep cleaning and a new night guard ($550), or postpone the follow-up work ($0).",
+        "probability": 0.037
+    },
+    {
+        "event": "You are invited to a baby shower. Options: buy a gift from the registry ($40), go in on a group gift for a stroller ($100), buy a premium baby monitor system ($250), or offer to help host the event instead ($0).",
+        "probability": 0.037
+    },
+    {
+        "event": "Your yearly eye exam shows your prescription has changed. Options: order new lenses for your current frames ($120), get a new pair of glasses from an affordable online retailer ($200), buy designer frames from your optometrist ($550), or try to get by with your old glasses ($0).",
+        "probability": 0.038
+    },
+    {
+        "event": "Your primary wallet is falling apart. Options: a simple, functional wallet ($25), a durable leather wallet from a good brand ($80), a designer luxury wallet ($350), or use a rubber band ($0).",
+        "probability": 0.029
+    },
+    {
+        "event": "Your boss suggests an online course to improve your job skills. Options: a single course on Udemy/Coursera ($50), a professional certificate program ($499), a multi-week intensive bootcamp ($2000), or find free tutorials on YouTube ($0).",
+        "probability": 0.029
+    },
+    {
+        "event": "You feel your home could be more secure. Options: a video doorbell camera ($150), a full DIY security system with sensors ($400), professionally monitored security service ($60/mo), or just be more diligent about locking doors ($0).",
+        "probability": 0.019
+    },
+    {
+        "event": "You decide your old kitchen blender can't handle your smoothie obsession. Options: a new personal-size blender ($50), a powerful full-size blender ($180), a high-end Vitamix or Blendtec ($450), or keep using the old one ($0).",
+        "probability": 0.019
+    },
+    {
+        "event": "You notice your passport expires in the next year. Options: standard renewal by mail ($130), expedited renewal service ($210), renewal via a third-party agency for convenience ($300), or decide you won't travel internationally soon ($0).",
+        "probability": 0.010
+    },
+    {
+        "event": "Your car's routine maintenance light comes on. Options: oil change ($80), oil change with tire rotation ($120), full synthetic service with diagnostics ($250), or ignore it for now ($0).",
+        "probability": 0.095
+    },
+    {
+        "event": "A close friend's birthday is next week. Options: buy a thoughtful gift ($50), take them out for a nice dinner ($150), organize a group gift and party ($300), or just send a heartfelt message ($0).",
+        "probability": 0.086
+    },
+    {
+        "event": "You just got a new phone and need a case. Options: basic clear case ($15), protective case from a known brand ($45), premium leather or specialty case ($80), or risk it without a case ($0).",
+        "probability": 0.076
+    },
+    {
+        "event": "One of your streaming services announces a price hike. Options: accept the new price ($17/mo), downgrade to a plan with ads ($11/mo), switch to an annual plan ($180/yr), or cancel the subscription ($0).",
+        "probability": 0.076
+    },
+    {
+        "event": "An annual software subscription is about to renew. Options: renew for one year ($99), upgrade to the professional suite ($240), buy a lifetime license if offered ($400), or cancel and find a free alternative ($0).",
+        "probability": 0.067
+    },
+    {
+        "event": "Your back has been hurting from your work-from-home setup. Options: lumbar support pillow ($35), new mid-range ergonomic office chair ($250), standing desk converter ($400), or just keep using pillows ($0).",
+        "probability": 0.067
+    },
+    {
+        "event": "A much-anticipated blockbuster movie is released. Options: stream it at home when available ($5.99 rental), go to a standard matinee showing ($14), see it in IMAX with popcorn and a drink ($35), or wait until it's on a service you own ($0).",
+        "probability": 0.057
+    },
+    {
+        "event": "You get an ad for a meal kit delivery service with a big discount. Options: try the trial for one week ($40), sign up for a month of meals ($280), get the premium gourmet plan ($450), or delete the email ($0).",
+        "probability": 0.057
+    },
+    {
+        "event": "The weather is perfect for a spontaneous weekend road trip. Options: day trip with gas and food ($100), one-night stay in a motel ($250), two-night stay in a nice hotel with activities ($600), or stay home and relax ($0).",
+        "probability": 0.057
+    },
+    {
+        "event": "A charity you support is having a donation drive. Options: small one-time donation ($25), become a monthly supporter ($30/mo), major gift for a specific project ($250), or offer to volunteer your time instead ($0).",
+        "probability": 0.048
+    },
+    {
+        "event": "Your yard or garden is looking overgrown. Options: buy new gardening tools and fertilizer ($75), rent a power tool like a lawn aerator for the weekend ($150), hire a professional landscaping service ($400), or let nature take its course ($0).",
+        "probability": 0.048
+    },
+    {
+        "event": "You are invited to a child's birthday party. Options: buy a popular toy as a gift ($30), give a larger gift like a LEGO set or scooter ($75), contribute to a big-ticket item the parents are saving for ($150), or have your child make a card ($0).",
+        "probability": 0.048
+    },
+    {
+        "event": "You go for a routine dental check-up. Options: just the cleaning covered by insurance ($0), cleaning plus a recommended filling ($220), a deep cleaning and a new night guard ($550), or postpone the follow-up work ($0).",
+        "probability": 0.037
+    },
+    {
+        "event": "You are invited to a baby shower. Options: buy a gift from the registry ($40), go in on a group gift for a stroller ($100), buy a premium baby monitor system ($250), or offer to help host the event instead ($0).",
+        "probability": 0.037
+    },
+    {
+        "event": "Your yearly eye exam shows your prescription has changed. Options: order new lenses for your current frames ($120), get a new pair of glasses from an affordable online retailer ($200), buy designer frames from your optometrist ($550), or try to get by with your old glasses ($0).",
+        "probability": 0.038
+    },
+    {
+        "event": "Your primary wallet is falling apart. Options: a simple, functional wallet ($25), a durable leather wallet from a good brand ($80), a designer luxury wallet ($350), or use a rubber band ($0).",
+        "probability": 0.029
+    },
+    {
+        "event": "Your boss suggests an online course to improve your job skills. Options: a single course on Udemy/Coursera ($50), a professional certificate program ($499), a multi-week intensive bootcamp ($2000), or find free tutorials on YouTube ($0).",
+        "probability": 0.029
+    },
+    {
+        "event": "You feel your home could be more secure. Options: a video doorbell camera ($150), a full DIY security system with sensors ($400), professionally monitored security service ($60/mo), or just be more diligent about locking doors ($0).",
+        "probability": 0.019
+    },
+    {
+        "event": "You decide your old kitchen blender can't handle your smoothie obsession. Options: a new personal-size blender ($50), a powerful full-size blender ($180), a high-end Vitamix or Blendtec ($450), or keep using the old one ($0).",
+        "probability": 0.019
+    },
+    {
+        "event": "You notice your passport expires in the next year. Options: standard renewal by mail ($130), expedited renewal service ($210), renewal via a third-party agency for convenience ($300), or decide you won't travel internationally soon ($0).",
+        "probability": 0.010
+    },
+    {
+        "event": "You receive a co-pay bill for a recent doctor's visit. Options: pay the co-pay ($45), pay for the prescribed medication as well ($125), pay for follow-up lab work ($450), or call the billing department to dispute it ($0).",
+        "probability": 0.095
+      },
+      {
+        "event": "The seasons are changing and you need to update your wardrobe. Options: a few new shirts ($90), a new pair of jeans and a sweater ($250), a quality winter coat and boots ($700), or decide your current clothes are fine ($0).",
+        "probability": 0.084
+      },
+      {
+        "event": "You get a 'storage almost full' notification on your phone/computer. Options: upgrade cloud storage for a small monthly fee ($2.99/mo), buy an external hard drive ($120), subscribe to a family cloud plan ($119/yr), or spend time deleting old files ($0).",
+        "probability": 0.076
+      },
+      {
+        "event": "Your favorite artist announces a concert in your city. Options: one ticket in the upper section ($85), two good seats in the lower section ($350), VIP package with merchandise ($950), or listen to their albums at home ($0).",
+        "probability": 0.067
+      },
+      {
+        "event": "A friend's wedding registry is live. Options: get them a kitchen appliance ($100), contribute to their honeymoon fund ($250), go in with friends for a large furniture item ($800), or offer to help with wedding setup instead of a gift ($0).",
+        "probability": 0.067
+      },
+      {
+        "event": "Your semi-annual car insurance premium is due. Options: pay the minimum monthly installment ($160), pay the full 6-month premium for a discount ($900), increase coverage and pay the new premium ($1150), or switch providers after shopping around ($0 initial cost).",
+        "probability": 0.067
+      },
+      {
+        "event": "A new skincare product has gone viral online. Options: buy the single viral product ($35), purchase the brand's full 'starter kit' ($150), invest in a high-tech beauty device from the same brand ($550), or dismiss it as hype ($0).",
+        "probability": 0.062
+      },
+      {
+        "event": "You see an ad for a curated subscription box that piques your interest. Options: try a single box ($25), sign up for a 3-month subscription ($70), get the premium annual subscription ($250), or close the ad ($0).",
+        "probability": 0.057
+      },
+      {
+        "event": "It's a beautiful weekend for a trip to the local farmer's market. Options: just buy some fresh vegetables ($20), stock up on artisanal cheese, bread, and jam ($75), buy a large, decorative plant and handcrafted pottery ($200), or just enjoy the free samples ($0).",
+        "probability": 0.057
+      },
+      {
+        "event": "You're tasked with hosting a major holiday dinner this year. Options: ask guests to bring dishes potluck-style ($50 for main course), buy all the groceries for a traditional feast ($350), get the dinner catered ($900), or suggest going to a restaurant instead ($0).",
+        "probability": 0.048
+      },
+      {
+        "event": "An ad for an online MasterClass taught by an expert in your field appears. Options: purchase a single class ($90), get an annual all-access pass ($180), buy passes for your whole team at work ($1500), or decide you can learn on your own ($0).",
+        "probability": 0.048
+      },
+      {
+        "event": "A new play or musical is getting rave reviews downtown. Options: buy a rush ticket with a partially obstructed view ($49), get a standard ticket for a weeknight show ($130), purchase premium orchestra seats for a weekend show ($380), or wait to see if a movie version is made ($0).",
+        "probability": 0.048
+      },
+      {
+        "event": "You decide to finally plan a real vacation. Options: book a long weekend domestic flight ($700), book an all-inclusive resort package for a week ($2200), book a 10-day multi-city international trip ($4500), or opt for a staycation ($0).",
+        "probability": 0.038
+      },
+      {
+        "event": "Your pet suddenly becomes ill and needs to see the vet. Options: emergency exam fee ($150), exam plus medication and bloodwork ($600), emergency surgery and overnight stay ($3500), or try to nurse them at home (not recommended, $0).",
+        "probability": 0.033
+      },
+      {
+        "event": "You've been sleeping poorly and blame your old mattress. Options: buy a highly-rated mattress-in-a-box ($850), purchase a premium mattress with a new bed frame and base ($2500), get a luxury adjustable smart bed ($5000), or just buy a new mattress topper ($150).",
+        "probability": 0.033
+      },
+      {
+        "event": "Your car is making a strange noise and the mechanic gives you bad news. Options: a minor part replacement ($450), a major transmission repair ($2800), a full engine rebuild ($6000), or decide it's time to sell the car as-is ($0).",
+        "probability": 0.029
+      },
+      {
+        "event": "Your annual property tax bill arrives. Options: pay the first installment ($1800), pay the full year's amount ($3600), pay via a mortgage escrow account ($0 direct cost), or file for a reassessment ($0).",
+        "probability": 0.029
+      },
+      {
+        "event": "You want a new bicycle for commuting and weekend fitness. Options: a used bike from a local marketplace ($150), a solid new hybrid bike from a bike shop ($750), a high-end carbon fiber road bike ($3200), or fix up the old one in your garage ($0).",
+        "probability": 0.029
+      },
+      {
+        "event": "Your old gaming PC can't keep up with new releases. Options: upgrade your graphics card ($450), build a new mid-range gaming PC ($1500), build a top-of-the-line machine with premium parts ($4000), or stick to playing older games ($0).",
+        "probability": 0.019
+      },
+      {
+        "event": "Your refrigerator stops cooling. Options: pay a technician's diagnostic fee ($120), repair the existing fridge ($600), buy a new, reliable mid-range refrigerator ($1800), or get a high-end smart fridge with all the features ($4200).",
+        "probability": 0.014
+      }
+]

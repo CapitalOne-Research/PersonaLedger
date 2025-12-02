@@ -1,0 +1,1646 @@
+{
+    "user_persona": {
+        "persona": "Aaron, a reserved yet competitive problem-solver, finds joy in restoring old cars in his workshop, always striving to make them better than before",
+        "professional_persona": "Aaron, a mechanical engineer, approaches his work with a steady, practical hand, preferring to tackle complex problems one step at a time, often seen in his office with a cup of coffee and a blueprint",
+        "sports_persona": "Aaron, a lifelong Colts fan, prefers watching football from the comfort of his recliner at home, enjoying a quiet evening with close friends over loud stadium crowds",
+        "arts_persona": "Aaron, an admirer of jazz, often hosts intimate gatherings at his home, playing records from his extensive collection featuring Miles Davis and John Coltrane, while his guests enjoy his cooking",
+        "travel_persona": "Aaron, a meticulous planner, favors road trips to explore the American South, with stops at historic Civil Rights sites like Birmingham and Montgomery, and enjoys staying at cozy bed and breakfasts",
+        "culinary_persona": "Aaron, a skilled cook, enjoys preparing soul food dishes like his grandmother's fried chicken and collard greens, often inviting a small group of friends to share the meal and stories",
+        "skills_and_expertise_list": "['mechanical engineering', 'cad software', 'manufacturing processes', 'troubleshooting', 'problem-solving']",
+        "hobbies_and_interests_list": "['restoring classic cars', 'fishing', 'history of civil rights movement', 'cooking soul food', 'attending jazz performances']",
+        "career_goals_and_ambitions": "Aaron's career goals are more about leaving a legacy than climbing the corporate ladder. He wants to use his engineering skills to improve his community, perhaps by designing more efficient public transportation systems or affordable housing. He's not one for grand plans, preferring to take things step by step, but he's ambitious in his own way. He's not afraid of competition, seeing it as a way to drive himself to do better. His emotional stability helps him handle the setbacks that come with pursuing ambitious goals.",
+        "sex": "Male",
+        "age": "70",
+        "marital_status": "divorced",
+        "education_level": "graduate",
+        "bachelors_field": "stem",
+        "occupation": "not_in_workforce"
+    },
+    "user_financial_profile": {
+        "income_level": "med income",
+        "credit_limit": 10000,
+        "payment_habit": "automatic_payment",
+        "subscriptions": [
+            {
+                "date_to_charge": 5,
+                "amount": 9.99,
+                "charge_frequency_month": 1,
+                "std": 0,
+                "merchant_name": "Spotify",
+                "product_description": "Music Streaming"
+            },
+            {
+                "date_to_charge": 15,
+                "amount": 12.0,
+                "charge_frequency_month": 1,
+                "std": 0,
+                "merchant_name": "Hemmings",
+                "product_description": "Classic Car Magazine"
+            },
+            {
+                "date_to_charge": 1,
+                "amount": 30.0,
+                "charge_frequency_month": 1,
+                "std": 0,
+                "merchant_name": "Autodesk",
+                "product_description": "CAD Software Subscription"
+            },
+            {
+                "date_to_charge": 20,
+                "amount": 9.99,
+                "charge_frequency_month": 1,
+                "std": 0,
+                "merchant_name": "NFL+",
+                "product_description": "Football Streaming"
+            },
+            {
+                "date_to_charge": 10,
+                "amount": 5.0,
+                "charge_frequency_month": 1,
+                "std": 0,
+                "merchant_name": "Smithsonian Magazine",
+                "product_description": "History Magazine"
+            }
+        ],
+        "recurring_variable_bills": [
+            {
+                "date_to_charge": 10,
+                "amount": 150.0,
+                "charge_frequency_month": 1,
+                "std": 30.0,
+                "merchant_name": "PG&E",
+                "product_description": "Electricity Bill"
+            },
+            {
+                "date_to_charge": 5,
+                "amount": 50.0,
+                "charge_frequency_month": 1,
+                "std": 10.0,
+                "merchant_name": "Local Water Co.",
+                "product_description": "Water Bill"
+            },
+            {
+                "date_to_charge": 20,
+                "amount": 1200.0,
+                "charge_frequency_month": 12,
+                "std": 0.0,
+                "merchant_name": "State Farm",
+                "product_description": "Homeowner's Insurance"
+            },
+            {
+                "date_to_charge": 15,
+                "amount": 800.0,
+                "charge_frequency_month": 12,
+                "std": 0.0,
+                "merchant_name": "Geico",
+                "product_description": "Auto Insurance"
+            },
+            {
+                "date_to_charge": 25,
+                "amount": 80.0,
+                "charge_frequency_month": 1,
+                "std": 15.0,
+                "merchant_name": "Comcast",
+                "product_description": "Cable & Internet"
+            }
+        ],
+        "life_events": [
+            "divorced",
+            "retired_from_engineering",
+            "pursuing_legacy_project"
+        ],
+        "car_ownership": "owns_2_cars",
+        "spending_patterns": "Minimalists: consciously live on far less than they earn, enabling a very high savings rate to achieve financial independence."
+    },
+    "transactions": [
+        {
+            "timestamp": "2024-10-03 14:30:00",
+            "merchant_name": "Electronics Store",
+            "merchant_type": "electronics",
+            "card_present_or_not": "yes",
+            "amount": 450.87
+        },
+        {
+            "timestamp": "2024-10-04 19:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 25.73
+        },
+        {
+            "timestamp": "2024-10-04 20:30:00",
+            "merchant_name": "Soul Food Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 35.59
+        },
+        {
+            "timestamp": "2024-10-05 00:00:00",
+            "merchant_name": "Local Water Co.",
+            "merchant_type": "Water Bill",
+            "card_present_or_not": "no",
+            "amount": 57.59
+        },
+        {
+            "timestamp": "2024-10-05 00:00:00",
+            "merchant_name": "Spotify",
+            "merchant_type": "Music Streaming",
+            "card_present_or_not": "no",
+            "amount": 9.99
+        },
+        {
+            "timestamp": "2024-10-05 10:00:00",
+            "merchant_name": "Farmer's Market",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 20.93
+        },
+        {
+            "timestamp": "2024-10-05 12:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 50.88
+        },
+        {
+            "timestamp": "2024-10-06 18:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -500.0
+        },
+        {
+            "timestamp": "2024-10-07 12:30:00",
+            "merchant_name": "Caf\u00e9",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 15.76
+        },
+        {
+            "timestamp": "2024-10-07 14:00:00",
+            "merchant_name": "Gas Station",
+            "merchant_type": "gas",
+            "card_present_or_not": "yes",
+            "amount": 30.62
+        },
+        {
+            "timestamp": "2024-10-07 15:30:00",
+            "merchant_name": "Bookstore",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 20.91
+        },
+        {
+            "timestamp": "2024-10-08 10:00:00",
+            "merchant_name": "Electronics Store",
+            "merchant_type": "electronics",
+            "card_present_or_not": "yes",
+            "amount": 45.34
+        },
+        {
+            "timestamp": "2024-10-09 12:30:00",
+            "merchant_name": "Soul Food Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 25.53
+        },
+        {
+            "timestamp": "2024-10-10 00:00:00",
+            "merchant_name": "PG&E",
+            "merchant_type": "Electricity Bill",
+            "card_present_or_not": "no",
+            "amount": 160.02
+        },
+        {
+            "timestamp": "2024-10-10 00:00:00",
+            "merchant_name": "Smithsonian Magazine",
+            "merchant_type": "History Magazine",
+            "card_present_or_not": "no",
+            "amount": 5.0
+        },
+        {
+            "timestamp": "2024-10-10 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 40.54
+        },
+        {
+            "timestamp": "2024-10-10 12:30:00",
+            "merchant_name": "Caf\u00e9",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 10.38
+        },
+        {
+            "timestamp": "2024-10-11 10:00:00",
+            "merchant_name": "Electronics Store",
+            "merchant_type": "electronics",
+            "card_present_or_not": "yes",
+            "amount": 150.56
+        },
+        {
+            "timestamp": "2024-10-12 12:00:00",
+            "merchant_name": "Caf\u00e9",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 20.58
+        },
+        {
+            "timestamp": "2024-10-12 15:00:00",
+            "merchant_name": "Museum",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 15.91
+        },
+        {
+            "timestamp": "2024-10-12 19:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 30.85
+        },
+        {
+            "timestamp": "2024-10-13 10:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 50.1
+        },
+        {
+            "timestamp": "2024-10-13 15:00:00",
+            "merchant_name": "Wine Store",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 30.71
+        },
+        {
+            "timestamp": "2024-10-14 12:00:00",
+            "merchant_name": "Bookstore",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 20.59
+        },
+        {
+            "timestamp": "2024-10-15 00:00:00",
+            "merchant_name": "Hemmings",
+            "merchant_type": "Classic Car Magazine",
+            "card_present_or_not": "no",
+            "amount": 12.0
+        },
+        {
+            "timestamp": "2024-10-15 18:00:00",
+            "merchant_name": "Takeout Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 25.52
+        },
+        {
+            "timestamp": "2024-10-16 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 35.67
+        },
+        {
+            "timestamp": "2024-10-17 16:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 40.3
+        },
+        {
+            "timestamp": "2024-10-18 13:00:00",
+            "merchant_name": "Movie Theater",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 14.21
+        },
+        {
+            "timestamp": "2024-10-19 10:00:00",
+            "merchant_name": "Gas Station",
+            "merchant_type": "gas",
+            "card_present_or_not": "yes",
+            "amount": 30.92
+        },
+        {
+            "timestamp": "2024-10-20 00:00:00",
+            "merchant_name": "NFL+",
+            "merchant_type": "Football Streaming",
+            "card_present_or_not": "no",
+            "amount": 9.99
+        },
+        {
+            "timestamp": "2024-10-21 00:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -151.58
+        },
+        {
+            "timestamp": "2024-10-21 10:00:00",
+            "merchant_name": "Veterinary Clinic",
+            "merchant_type": "veterinary",
+            "card_present_or_not": "yes",
+            "amount": 600.02
+        },
+        {
+            "timestamp": "2024-10-22 00:00:00",
+            "merchant_name": "Autopayment",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -151.58
+        },
+        {
+            "timestamp": "2024-10-22 12:00:00",
+            "merchant_name": "Streaming Service",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "no",
+            "amount": 11.54
+        },
+        {
+            "timestamp": "2024-10-23 10:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 50.96
+        },
+        {
+            "timestamp": "2024-10-23 14:00:00",
+            "merchant_name": "Home Goods Store",
+            "merchant_type": "home improvement",
+            "card_present_or_not": "yes",
+            "amount": 20.32
+        },
+        {
+            "timestamp": "2024-10-24 18:00:00",
+            "merchant_name": "Butcher Shop",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 30.41
+        },
+        {
+            "timestamp": "2024-10-24 19:00:00",
+            "merchant_name": "Liquor Store",
+            "merchant_type": "beverage",
+            "card_present_or_not": "yes",
+            "amount": 25.58
+        },
+        {
+            "timestamp": "2024-10-25 00:00:00",
+            "merchant_name": "Comcast",
+            "merchant_type": "Cable & Internet",
+            "card_present_or_not": "no",
+            "amount": 47.49
+        },
+        {
+            "timestamp": "2024-10-25 12:00:00",
+            "merchant_name": "Hardware Store",
+            "merchant_type": "home improvement",
+            "card_present_or_not": "yes",
+            "amount": 40.67
+        },
+        {
+            "timestamp": "2024-10-25 13:00:00",
+            "merchant_name": "Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 20.22
+        },
+        {
+            "timestamp": "2024-10-27 10:00:00",
+            "merchant_name": "Toy Store",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 30.33
+        },
+        {
+            "timestamp": "2024-10-28 19:00:00",
+            "merchant_name": "Takeout Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 25.36
+        },
+        {
+            "timestamp": "2024-10-28 20:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -500.0
+        },
+        {
+            "timestamp": "2024-10-29 10:00:00",
+            "merchant_name": "Gas Station",
+            "merchant_type": "gas",
+            "card_present_or_not": "yes",
+            "amount": 35.79
+        },
+        {
+            "timestamp": "2024-10-29 12:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 40.71
+        },
+        {
+            "timestamp": "2024-10-31 14:00:00",
+            "merchant_name": "Office Supply Store",
+            "merchant_type": "furniture",
+            "card_present_or_not": "yes",
+            "amount": 250.11
+        },
+        {
+            "timestamp": "2024-11-01 00:00:00",
+            "merchant_name": "Autodesk",
+            "merchant_type": "CAD Software Subscription",
+            "card_present_or_not": "no",
+            "amount": 30.0
+        },
+        {
+            "timestamp": "2024-11-01 19:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 50.75
+        },
+        {
+            "timestamp": "2024-11-01 20:30:00",
+            "merchant_name": "Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 40.0
+        },
+        {
+            "timestamp": "2024-11-02 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "auto",
+            "card_present_or_not": "yes",
+            "amount": 20.23
+        },
+        {
+            "timestamp": "2024-11-02 17:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 30.8
+        },
+        {
+            "timestamp": "2024-11-03 10:00:00",
+            "merchant_name": "Mechanic Shop",
+            "merchant_type": "auto",
+            "card_present_or_not": "yes",
+            "amount": 120.19
+        },
+        {
+            "timestamp": "2024-11-04 14:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -500.0
+        },
+        {
+            "timestamp": "2024-11-04 18:00:00",
+            "merchant_name": "Takeout Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 25.09
+        },
+        {
+            "timestamp": "2024-11-05 00:00:00",
+            "merchant_name": "Local Water Co.",
+            "merchant_type": "Water Bill",
+            "card_present_or_not": "no",
+            "amount": 65.54
+        },
+        {
+            "timestamp": "2024-11-05 00:00:00",
+            "merchant_name": "Spotify",
+            "merchant_type": "Music Streaming",
+            "card_present_or_not": "no",
+            "amount": 9.99
+        },
+        {
+            "timestamp": "2024-11-05 14:00:00",
+            "merchant_name": "Coffee Shop",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 15.51
+        },
+        {
+            "timestamp": "2024-11-06 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "auto",
+            "card_present_or_not": "yes",
+            "amount": 30.95
+        },
+        {
+            "timestamp": "2024-11-06 18:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 40.35
+        },
+        {
+            "timestamp": "2024-11-07 10:00:00",
+            "merchant_name": "Gas Station",
+            "merchant_type": "gas",
+            "card_present_or_not": "yes",
+            "amount": 35.43
+        },
+        {
+            "timestamp": "2024-11-07 14:00:00",
+            "merchant_name": "Museum",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 20.21
+        },
+        {
+            "timestamp": "2024-11-07 19:00:00",
+            "merchant_name": "Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 45.87
+        },
+        {
+            "timestamp": "2024-11-08 18:00:00",
+            "merchant_name": "Liquor Store",
+            "merchant_type": "beverage",
+            "card_present_or_not": "yes",
+            "amount": 30.57
+        },
+        {
+            "timestamp": "2024-11-08 19:00:00",
+            "merchant_name": "Flower Shop",
+            "merchant_type": "gift",
+            "card_present_or_not": "yes",
+            "amount": 25.98
+        },
+        {
+            "timestamp": "2024-11-09 11:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 40.04
+        },
+        {
+            "timestamp": "2024-11-09 13:00:00",
+            "merchant_name": "Delicatessen",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 20.75
+        },
+        {
+            "timestamp": "2024-11-09 16:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "auto",
+            "card_present_or_not": "yes",
+            "amount": 50.26
+        },
+        {
+            "timestamp": "2024-11-10 00:00:00",
+            "merchant_name": "PG&E",
+            "merchant_type": "Electricity Bill",
+            "card_present_or_not": "no",
+            "amount": 159.24
+        },
+        {
+            "timestamp": "2024-11-10 00:00:00",
+            "merchant_name": "Smithsonian Magazine",
+            "merchant_type": "History Magazine",
+            "card_present_or_not": "no",
+            "amount": 5.0
+        },
+        {
+            "timestamp": "2024-11-10 18:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 60.65
+        },
+        {
+            "timestamp": "2024-11-11 10:00:00",
+            "merchant_name": "Coffee Shop",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 10.42
+        },
+        {
+            "timestamp": "2024-11-11 14:00:00",
+            "merchant_name": "Payment Processor",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -500.0
+        },
+        {
+            "timestamp": "2024-11-12 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "auto",
+            "card_present_or_not": "yes",
+            "amount": 75.02
+        },
+        {
+            "timestamp": "2024-11-12 19:00:00",
+            "merchant_name": "Bookstore",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 30.44
+        },
+        {
+            "timestamp": "2024-11-13 12:00:00",
+            "merchant_name": "Bistro",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 25.96
+        },
+        {
+            "timestamp": "2024-11-13 15:00:00",
+            "merchant_name": "Record Store",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 40.96
+        },
+        {
+            "timestamp": "2024-11-13 17:00:00",
+            "merchant_name": "Gift Shop",
+            "merchant_type": "gift",
+            "card_present_or_not": "yes",
+            "amount": 20.93
+        },
+        {
+            "timestamp": "2024-11-14 10:00:00",
+            "merchant_name": "Dry Cleaner",
+            "merchant_type": "service",
+            "card_present_or_not": "yes",
+            "amount": 15.34
+        },
+        {
+            "timestamp": "2024-11-14 14:00:00",
+            "merchant_name": "Coffee Shop",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 12.79
+        },
+        {
+            "timestamp": "2024-11-15 00:00:00",
+            "merchant_name": "Hemmings",
+            "merchant_type": "Classic Car Magazine",
+            "card_present_or_not": "no",
+            "amount": 12.0
+        },
+        {
+            "timestamp": "2024-11-15 09:00:00",
+            "merchant_name": "Fishing Tackle Store",
+            "merchant_type": "recreation",
+            "card_present_or_not": "yes",
+            "amount": 30.25
+        },
+        {
+            "timestamp": "2024-11-15 18:00:00",
+            "merchant_name": "Butcher Shop",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 50.6
+        },
+        {
+            "timestamp": "2024-11-16 10:00:00",
+            "merchant_name": "Optometrist",
+            "merchant_type": "medical",
+            "card_present_or_not": "yes",
+            "amount": 120.66
+        },
+        {
+            "timestamp": "2024-11-16 12:00:00",
+            "merchant_name": "Department Store",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 80.79
+        },
+        {
+            "timestamp": "2024-11-16 14:00:00",
+            "merchant_name": "Bookstore",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 25.7
+        },
+        {
+            "timestamp": "2024-11-17 11:00:00",
+            "merchant_name": "Butcher Shop",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 40.64
+        },
+        {
+            "timestamp": "2024-11-17 14:00:00",
+            "merchant_name": "Payment Processor",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -500.0
+        },
+        {
+            "timestamp": "2024-11-18 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "auto",
+            "card_present_or_not": "yes",
+            "amount": 60.72
+        },
+        {
+            "timestamp": "2024-11-18 17:00:00",
+            "merchant_name": "Gas Station",
+            "merchant_type": "gas",
+            "card_present_or_not": "yes",
+            "amount": 35.07
+        },
+        {
+            "timestamp": "2024-11-19 14:00:00",
+            "merchant_name": "Art Gallery",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 100.69
+        },
+        {
+            "timestamp": "2024-11-19 18:00:00",
+            "merchant_name": "Wine Shop",
+            "merchant_type": "beverage",
+            "card_present_or_not": "yes",
+            "amount": 50.9
+        },
+        {
+            "timestamp": "2024-11-20 00:00:00",
+            "merchant_name": "NFL+",
+            "merchant_type": "Football Streaming",
+            "card_present_or_not": "no",
+            "amount": 9.99
+        },
+        {
+            "timestamp": "2024-11-20 19:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 20.86
+        },
+        {
+            "timestamp": "2024-11-20 20:30:00",
+            "merchant_name": "Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 40.48
+        },
+        {
+            "timestamp": "2024-11-21 00:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -328.04
+        },
+        {
+            "timestamp": "2024-11-21 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "auto",
+            "card_present_or_not": "yes",
+            "amount": 75.06
+        },
+        {
+            "timestamp": "2024-11-21 15:00:00",
+            "merchant_name": "Library Bookstore",
+            "merchant_type": "education",
+            "card_present_or_not": "yes",
+            "amount": 30.45
+        },
+        {
+            "timestamp": "2024-11-22 10:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 50.74
+        },
+        {
+            "timestamp": "2024-11-22 14:00:00",
+            "merchant_name": "Caf\u00e9",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 20.17
+        },
+        {
+            "timestamp": "2024-11-23 19:00:00",
+            "merchant_name": "Takeout Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 30.77
+        },
+        {
+            "timestamp": "2024-11-23 20:00:00",
+            "merchant_name": "Travel Website",
+            "merchant_type": "travel",
+            "card_present_or_not": "no",
+            "amount": 150.16
+        },
+        {
+            "timestamp": "2024-11-24 14:00:00",
+            "merchant_name": "Bookstore",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 40.71
+        },
+        {
+            "timestamp": "2024-11-24 19:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 25.21
+        },
+        {
+            "timestamp": "2024-11-25 00:00:00",
+            "merchant_name": "Comcast",
+            "merchant_type": "Cable & Internet",
+            "card_present_or_not": "no",
+            "amount": 77.85
+        },
+        {
+            "timestamp": "2024-11-25 12:00:00",
+            "merchant_name": "Gas Station",
+            "merchant_type": "gas",
+            "card_present_or_not": "yes",
+            "amount": 35.43
+        },
+        {
+            "timestamp": "2024-11-26 14:00:00",
+            "merchant_name": "Gardening Store",
+            "merchant_type": "home improvement",
+            "card_present_or_not": "yes",
+            "amount": 60.57
+        },
+        {
+            "timestamp": "2024-11-27 18:00:00",
+            "merchant_name": "Takeout Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 25.87
+        },
+        {
+            "timestamp": "2024-11-29 10:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 50.66
+        },
+        {
+            "timestamp": "2024-11-29 14:00:00",
+            "merchant_name": "Department Store",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 75.64
+        },
+        {
+            "timestamp": "2024-11-29 20:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 30.67
+        },
+        {
+            "timestamp": "2024-11-30 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "auto parts",
+            "card_present_or_not": "yes",
+            "amount": 20.53
+        },
+        {
+            "timestamp": "2024-11-30 18:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -500.0
+        },
+        {
+            "timestamp": "2024-12-01 00:00:00",
+            "merchant_name": "Autodesk",
+            "merchant_type": "CAD Software Subscription",
+            "card_present_or_not": "no",
+            "amount": 30.0
+        },
+        {
+            "timestamp": "2024-12-01 11:00:00",
+            "merchant_name": "Online Retailer",
+            "merchant_type": "electronics",
+            "card_present_or_not": "no",
+            "amount": 50.33
+        },
+        {
+            "timestamp": "2024-12-02 10:00:00",
+            "merchant_name": "Streaming Service",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "no",
+            "amount": 180.01
+        },
+        {
+            "timestamp": "2024-12-03 14:00:00",
+            "merchant_name": "Coffee Shop",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 5.66
+        },
+        {
+            "timestamp": "2024-12-03 19:00:00",
+            "merchant_name": "Soul Food Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 35.61
+        },
+        {
+            "timestamp": "2024-12-04 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "auto parts",
+            "card_present_or_not": "yes",
+            "amount": 15.22
+        },
+        {
+            "timestamp": "2024-12-04 17:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 20.11
+        },
+        {
+            "timestamp": "2024-12-05 00:00:00",
+            "merchant_name": "Local Water Co.",
+            "merchant_type": "Water Bill",
+            "card_present_or_not": "no",
+            "amount": 53.72
+        },
+        {
+            "timestamp": "2024-12-05 00:00:00",
+            "merchant_name": "Spotify",
+            "merchant_type": "Music Streaming",
+            "card_present_or_not": "no",
+            "amount": 9.99
+        },
+        {
+            "timestamp": "2024-12-05 10:00:00",
+            "merchant_name": "Gas Station",
+            "merchant_type": "gas",
+            "card_present_or_not": "yes",
+            "amount": 30.17
+        },
+        {
+            "timestamp": "2024-12-05 14:00:00",
+            "merchant_name": "Museum",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 12.3
+        },
+        {
+            "timestamp": "2024-12-06 10:00:00",
+            "merchant_name": "Fishing Tackle Store",
+            "merchant_type": "sports",
+            "card_present_or_not": "yes",
+            "amount": 10.15
+        },
+        {
+            "timestamp": "2024-12-06 18:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -500.0
+        },
+        {
+            "timestamp": "2024-12-07 12:00:00",
+            "merchant_name": "Office Furniture Store",
+            "merchant_type": "furniture",
+            "card_present_or_not": "yes",
+            "amount": 250.58
+        },
+        {
+            "timestamp": "2024-12-08 11:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 25.45
+        },
+        {
+            "timestamp": "2024-12-08 15:00:00",
+            "merchant_name": "Bookstore",
+            "merchant_type": "books",
+            "card_present_or_not": "yes",
+            "amount": 20.11
+        },
+        {
+            "timestamp": "2024-12-08 18:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 30.95
+        },
+        {
+            "timestamp": "2024-12-09 10:00:00",
+            "merchant_name": "Auto Parts Store",
+            "merchant_type": "auto parts",
+            "card_present_or_not": "yes",
+            "amount": 12.52
+        },
+        {
+            "timestamp": "2024-12-09 14:00:00",
+            "merchant_name": "Coffee Shop",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 5.93
+        },
+        {
+            "timestamp": "2024-12-10 00:00:00",
+            "merchant_name": "PG&E",
+            "merchant_type": "Electricity Bill",
+            "card_present_or_not": "no",
+            "amount": 174.76
+        },
+        {
+            "timestamp": "2024-12-10 00:00:00",
+            "merchant_name": "Smithsonian Magazine",
+            "merchant_type": "History Magazine",
+            "card_present_or_not": "no",
+            "amount": 5.0
+        },
+        {
+            "timestamp": "2024-12-10 12:00:00",
+            "merchant_name": "Record Store",
+            "merchant_type": "music",
+            "card_present_or_not": "yes",
+            "amount": 15.81
+        },
+        {
+            "timestamp": "2024-12-10 18:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -200.0
+        },
+        {
+            "timestamp": "2024-12-11 18:00:00",
+            "merchant_name": "Takeout Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 18.65
+        },
+        {
+            "timestamp": "2024-12-12 10:00:00",
+            "merchant_name": "Caf\u00e9",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 8.72
+        },
+        {
+            "timestamp": "2024-12-12 14:00:00",
+            "merchant_name": "Lecture Venue",
+            "merchant_type": "education",
+            "card_present_or_not": "yes",
+            "amount": 10.96
+        },
+        {
+            "timestamp": "2024-12-13 10:00:00",
+            "merchant_name": "Fishing Tackle Store",
+            "merchant_type": "sports",
+            "card_present_or_not": "yes",
+            "amount": 20.58
+        },
+        {
+            "timestamp": "2024-12-13 18:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -300.0
+        },
+        {
+            "timestamp": "2024-12-14 11:00:00",
+            "merchant_name": "Museum",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 15.29
+        },
+        {
+            "timestamp": "2024-12-14 16:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 25.47
+        },
+        {
+            "timestamp": "2024-12-14 19:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 40.53
+        },
+        {
+            "timestamp": "2024-12-15 00:00:00",
+            "merchant_name": "Hemmings",
+            "merchant_type": "Classic Car Magazine",
+            "card_present_or_not": "no",
+            "amount": 12.0
+        },
+        {
+            "timestamp": "2024-12-15 18:00:00",
+            "merchant_name": "Takeout Restaurant",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 15.3
+        },
+        {
+            "timestamp": "2024-12-16 14:00:00",
+            "merchant_name": "Coffee Shop",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 5.83
+        },
+        {
+            "timestamp": "2024-12-16 15:30:00",
+            "merchant_name": "Bookstore",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 20.26
+        },
+        {
+            "timestamp": "2024-12-17 10:00:00",
+            "merchant_name": "Gas Station",
+            "merchant_type": "gas",
+            "card_present_or_not": "yes",
+            "amount": 30.45
+        },
+        {
+            "timestamp": "2024-12-17 12:00:00",
+            "merchant_name": "Hardware Store",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 25.53
+        },
+        {
+            "timestamp": "2024-12-17 14:00:00",
+            "merchant_name": "Record Store",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 15.27
+        },
+        {
+            "timestamp": "2024-12-18 10:00:00",
+            "merchant_name": "Hardware Store",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 50.8
+        },
+        {
+            "timestamp": "2024-12-19 12:00:00",
+            "merchant_name": "Charity Donation",
+            "merchant_type": "donation",
+            "card_present_or_not": "no",
+            "amount": 25.95
+        },
+        {
+            "timestamp": "2024-12-19 19:00:00",
+            "merchant_name": "Jazz Club",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 20.76
+        },
+        {
+            "timestamp": "2024-12-20 00:00:00",
+            "merchant_name": "NFL+",
+            "merchant_type": "Football Streaming",
+            "card_present_or_not": "no",
+            "amount": 9.99
+        },
+        {
+            "timestamp": "2024-12-20 14:00:00",
+            "merchant_name": "Library Coffee Shop",
+            "merchant_type": "dining",
+            "card_present_or_not": "yes",
+            "amount": 5.62
+        },
+        {
+            "timestamp": "2024-12-20 18:00:00",
+            "merchant_name": "Grocery Store",
+            "merchant_type": "grocery",
+            "card_present_or_not": "yes",
+            "amount": 30.06
+        },
+        {
+            "timestamp": "2024-12-21 00:00:00",
+            "merchant_name": "payment thank you",
+            "merchant_type": "payment",
+            "card_present_or_not": "no",
+            "amount": -1220.12
+        },
+        {
+            "timestamp": "2024-12-21 12:00:00",
+            "merchant_name": "Record Store",
+            "merchant_type": "entertainment",
+            "card_present_or_not": "yes",
+            "amount": 20.78
+        },
+        {
+            "timestamp": "2024-12-21 18:00:00",
+            "merchant_name": "Wine Shop",
+            "merchant_type": "retail",
+            "card_present_or_not": "yes",
+            "amount": 30.31
+        }
+    ],
+    "trajectory_plans": [
+        {
+            "date": "2024-10-03",
+            "user_prompt": "Today is 2024-10-03, Thursday. Here is a summary of your account information:\n* You did gas refilling 0 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: Your old gaming PC can't keep up with new releases. Options: upgrade your graphics card ($450), build a new mid-range gaming PC ($1500), build a top-of-the-line machine with premium parts ($4000), or stick to playing older games ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $5000.\n* Your running balance: 0.\n* Your available credit: 10000.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "This Thursday morning, I woke up feeling a bit nostalgic for my gaming days. After a quiet morning with a cup of coffee and some jazz music, I decided to tackle the issue with my old gaming PC. Given my background in mechanical engineering and my love for problem-solving, I opted to upgrade my graphics card. This way, I can still enjoy newer games without breaking the bank. The upgrade will cost $450, which is a reasonable expense considering my current financial situation. In the afternoon, I plan to visit a local electronics store to purchase the graphics card. Later, I might meet up with some friends at a nearby caf\u00e9 to catch up and discuss our shared interest in jazz music. The evening will be spent installing the new graphics card and testing it out with some of my favorite games."
+        },
+        {
+            "date": "2024-10-04",
+            "user_prompt": "Today is 2024-10-04, Friday. Here is a summary of your account information:\n* You did gas refilling 1 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $9000.\n* Your running balance: 450.87.\n* Your available credit: 9549.13.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm looking forward to a relaxing evening after a productive week. This morning, I spent some time in my workshop, tinkering with one of my classic cars. I've been meaning to get it ready for a upcoming car show, and I'm excited to showcase my restoration work. Later, I plan to meet up with some friends at a local jazz club to enjoy some live music and good company. We might grab some dinner at a nearby restaurant, trying out their new soul food menu. The evening will be a great opportunity to unwind and socialize. Tomorrow, I might do some grocery shopping to stock up for the week, but for now, I'm just focusing on enjoying the evening."
+        },
+        {
+            "date": "2024-10-05",
+            "user_prompt": "Today is 2024-10-05, Saturday. Here is a summary of your account information:\n* You did gas refilling 2 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $9000.\n* Your running balance: 512.19.\n* Your available credit: 9487.81.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's a beautiful Saturday morning, and I've decided to spend the day running some errands and doing some grocery shopping. I've been putting off restocking my pantry for a while, and I'd like to try out some new recipes. After a quiet morning at home, I'll head out to the local farmer's market to pick up some fresh produce and meats. Later, I'll stop by the grocery store to get some staples and household items. The afternoon will be spent cooking and preparing meals for the week ahead. I might also take some time to work on my classic car, making some progress on the restoration project. The evening will be low-key, perhaps watching a football game or listening to some jazz records."
+        },
+        {
+            "date": "2024-10-06",
+            "user_prompt": "Today is 2024-10-06, Sunday. Here is a summary of your account information:\n* You did gas refilling 3 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $9000.\n* Your running balance: 651.58.\n* Your available credit: 9348.42.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's a lazy Sunday morning, and I'm looking forward to a relaxing day at home. I might spend some time reading a book or watching a documentary about the history of the Civil Rights movement, a topic that's always fascinated me. Later, I'll probably take a walk around the neighborhood or do some light exercise to get some fresh air. In the evening, I'll cook a simple dinner, perhaps some fried chicken and collard greens, a classic soul food dish that reminds me of my grandmother's cooking. I might also make a payment on my credit card to keep my finances in order. The day will be a quiet one, with no major plans or expenses, just a chance to recharge for the week ahead."
+        },
+        {
+            "date": "2024-10-07",
+            "user_prompt": "Today is 2024-10-07, Monday. Here is a summary of your account information:\n* You did gas refilling 4 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $8500.0.\n* Your running balance: 151.58.\n* Your available credit: 9848.42.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday morning, and I'm starting the week with a sense of purpose. I'll spend the morning working on my legacy project, a design for an affordable housing complex that I've been passionate about for months. After a productive morning, I'll take a break and grab some lunch at a nearby caf\u00e9, perhaps meeting up with a friend or colleague to discuss our shared interests in engineering and social impact. The afternoon will be spent running some errands, including filling up my gas tank to ensure I have enough for the week's activities. I might also stop by a local bookstore to pick up a new book on jazz history, a topic that fascinates me. The evening will be quiet, with some time spent reading and relaxing."
+        },
+        {
+            "date": "2024-10-08",
+            "user_prompt": "Today is 2024-10-08, Tuesday. Here is a summary of your account information:\n* You did gas refilling 0 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: You just got a new phone and need a case. Options: basic clear case ($15), protective case from a known brand ($45), premium leather or specialty case ($80), or risk it without a case ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $8500.0.\n* Your running balance: 218.87.\n* Your available credit: 9781.13.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm feeling quite pleased with my new phone. However, I know I need to get a case to protect it. Given my practical and problem-solving nature, I've decided to opt for a protective case from a known brand. It's a reasonable expense, and I believe it's worth the investment to ensure my phone lasts. This morning, I'll head out to a local electronics store to purchase the case. Afterward, I might stop by a nearby park to take a walk and enjoy the scenery. The rest of the day will be spent working on my legacy project, making progress on the design and planning phases. This evening, I'll likely spend some time listening to jazz music and relaxing."
+        },
+        {
+            "date": "2024-10-09",
+            "user_prompt": "Today is 2024-10-09, Wednesday. Here is a summary of your account information:\n* You did gas refilling 1 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $8500.0.\n* Your running balance: 264.21.\n* Your available credit: 9735.79.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm feeling a bit hungry for some good food. I've decided to take a break from cooking and try out a new soul food restaurant that just opened up in town. I've heard great things about their fried chicken and collard greens, and I'm excited to give it a try. After lunch, I might take a walk around the neighborhood or do some light exercise to get some fresh air. This evening, I'll spend some time watching a football game, cheering on my favorite team, the Colts. It'll be a relaxing day with a mix of good food, fresh air, and entertainment."
+        },
+        {
+            "date": "2024-10-10",
+            "user_prompt": "Today is 2024-10-10, Thursday. Here is a summary of your account information:\n* You did gas refilling 2 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 4 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $8500.0.\n* Your running balance: 289.74.\n* Your available credit: 9710.26.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I'm feeling like it's time to get back to my workshop. I've been putting off some repairs on one of my classic cars, and I'd like to make some progress on it today. This morning, I'll head out to the workshop and spend some time tinkering with the engine. After a productive morning, I might take a break and grab a coffee at a nearby caf\u00e9. This evening, I'll spend some time reading a book about the history of the Civil Rights movement, a topic that's always fascinated me. It'll be a quiet day with a mix of hands-on work and intellectual pursuits."
+        },
+        {
+            "date": "2024-10-11",
+            "user_prompt": "Today is 2024-10-11, Friday. Here is a summary of your account information:\n* You did gas refilling 3 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 5 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: You feel your home could be more secure. Options: a video doorbell camera ($150), a full DIY security system with sensors ($400), professionally monitored security service ($60/mo), or just be more diligent about locking doors ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $8500.0.\n* Your running balance: 505.68.\n* Your available credit: 9494.32.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I've been thinking a lot about home security lately. As someone who values practicality and problem-solving, I've decided to invest in a video doorbell camera. It seems like a reasonable and effective way to enhance my home's security without breaking the bank. This morning, I'll head out to a local electronics store to purchase the camera. Afterward, I'll spend some time installing it and setting it up. The rest of the day will be spent relaxing and enjoying some jazz music. I might also start thinking about plans for the weekend, perhaps a road trip or a visit to a local museum. This evening, I'll take some time to review my finances and make sure everything is in order."
+        },
+        {
+            "date": "2024-10-12",
+            "user_prompt": "Today is 2024-10-12, Saturday. Here is a summary of your account information:\n* You did gas refilling 4 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 6 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $8500.0.\n* Your running balance: 656.24.\n* Your available credit: 9343.76.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm feeling like it's time to get out and enjoy the weekend. I've decided to take a road trip to a nearby town that's known for its historic sites and jazz music scene. I'll spend the morning driving and exploring the town, perhaps stopping at a local caf\u00e9 for lunch. This afternoon, I'll visit a few of the historic sites, including a museum and a landmark from the Civil Rights movement. This evening, I'll check out a local jazz club and enjoy some live music. It'll be a fun and relaxing day, and I'm looking forward to getting out and experiencing something new."
+        },
+        {
+            "date": "2024-10-13",
+            "user_prompt": "Today is 2024-10-13, Sunday. Here is a summary of your account information:\n* You did gas refilling 5 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 7 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: Your anniversary is coming up. Options: a fancy dinner out ($180), concert tickets ($350), a weekend getaway ($900), or a quiet celebration at home ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $8500.0.\n* Your running balance: 723.58.\n* Your available credit: 9276.42.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I've been thinking about my upcoming anniversary. As someone who values simplicity and intimacy, I've decided to celebrate with a quiet evening at home. I'll spend the day cooking my partner's favorite soul food dishes, including fried chicken and collard greens. This evening, I'll set up a romantic dinner for two, complete with candles and jazz music playing in the background. It'll be a lovely and relaxing way to celebrate our special day, and I'm looking forward to spending quality time together. The rest of the day will be spent watching a movie or playing some board games, just enjoying each other's company."
+        },
+        {
+            "date": "2024-10-14",
+            "user_prompt": "Today is 2024-10-14, Monday. Here is a summary of your account information:\n* Holiday notification: Today is Columbus Day.\n* You did gas refilling 6 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: It's the holiday season and you need gifts. Options: coworker gift ($25), family gift ($200), partner gift ($700), or suggest a no-gift exchange this year ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $8500.0.\n* Your running balance: 804.39.\n* Your available credit: 9195.61.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Columbus Day, and I'm enjoying the holiday. As someone who values simplicity and practicality, I've decided to opt for a modest gift-giving approach this year. I'll get a small gift for my partner, something thoughtful and personal, but not too expensive. I've decided on a nice book by their favorite author, which should cost around $20. I'll spend the day relaxing and enjoying the holiday, perhaps taking a walk or watching a movie. This evening, I'll start thinking about my legacy project and making some plans for the upcoming week. It'll be a quiet and relaxing day, with a focus on personal pursuits and relationships."
+        },
+        {
+            "date": "2024-10-15",
+            "user_prompt": "Today is 2024-10-15, Tuesday. Here is a summary of your account information:\n* You did gas refilling 7 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $8500.0.\n* Your running balance: 824.98.\n* Your available credit: 9175.02.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm feeling like it's time to get back to my routine. I'll spend the morning working on my legacy project, making some progress on the design and planning. This afternoon, I'll take a break and go for a walk, enjoying the fresh air and clearing my mind. This evening, I'll watch a football game, cheering on my favorite team, the Colts. I might also order some takeout, as I don't feel like cooking tonight. It'll be a relaxing day with a mix of productivity and leisure."
+        },
+        {
+            "date": "2024-10-16",
+            "user_prompt": "Today is 2024-10-16, Wednesday. Here is a summary of your account information:\n* You did gas refilling 8 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $8500.0.\n* Your running balance: 862.5.\n* Your available credit: 9137.5.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm feeling like it's time to tackle some errands. I'll spend the morning running a few errands, including stopping by the auto parts store to pick up some supplies for my classic car restoration project. This afternoon, I'll head to the library to return some books and browse through the jazz section, maybe finding some new artists to listen to. This evening, I'll spend some time reading and listening to music, unwinding after a productive day. It'll be a day of getting things done and enjoying some quiet time."
+        },
+        {
+            "date": "2024-10-17",
+            "user_prompt": "Today is 2024-10-17, Thursday. Here is a summary of your account information:\n* You did gas refilling 9 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $8500.0.\n* Your running balance: 898.17.\n* Your available credit: 9101.83.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I'm feeling like it's time to catch up with some friends. I'll spend the evening hosting a small dinner party, cooking up some of my famous soul food dishes and enjoying some good company. I'll need to pick up a few ingredients, so I'll stop by the grocery store on my way home from running some other errands. It'll be a fun and social evening, and I'm looking forward to sharing some stories and laughter with my friends. The rest of the day will be spent relaxing and getting everything ready for the party."
+        },
+        {
+            "date": "2024-10-18",
+            "user_prompt": "Today is 2024-10-18, Friday. Here is a summary of your account information:\n* You did gas refilling 10 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: A much-anticipated blockbuster movie is released. Options: stream it at home when available ($5.99 rental), go to a standard matinee showing ($14), see it in IMAX with popcorn and a drink ($35), or wait until it's on a service you own ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $12500.0.\n* Your running balance: 938.47.\n* Your available credit: 9061.53.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm excited for the weekend. I've been hearing a lot about the new blockbuster movie, and I've decided to treat myself to a night out at the cinema. I'll opt for a standard matinee showing, as it's a good balance between cost and experience. I'll spend the rest of the day running some errands and getting everything ready for the weekend. This evening, I'll head to the movie theater, grab a snack, and enjoy the film. It'll be a fun and relaxing way to kick off the weekend."
+        },
+        {
+            "date": "2024-10-19",
+            "user_prompt": "Today is 2024-10-19, Saturday. Here is a summary of your account information:\n* You did gas refilling 11 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $12500.0.\n* Your running balance: 952.68.\n* Your available credit: 9047.32.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm feeling like it's time to work on my classic car restoration project. I'll spend the day in my workshop, tinkering with the engine and making some progress on the project. I might need to pick up some gas for the car, so I'll stop by the gas station and fill up. This evening, I'll take a break and watch a football game, cheering on my favorite team, the Colts. It'll be a relaxing day with a mix of productivity and leisure."
+        },
+        {
+            "date": "2024-10-20",
+            "user_prompt": "Today is 2024-10-20, Sunday. Here is a summary of your account information:\n* You did gas refilling 0 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $12500.0.\n* Your running balance: 983.6.\n* Your available credit: 9016.4.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I'm feeling like it's time to take it easy. I'll spend the day relaxing at home, listening to some jazz music and reading a book. I might also do some cooking, trying out a new recipe for soul food. This evening, I'll watch a movie or a documentary, something to unwind and prepare for the week ahead. It'll be a quiet and low-key day, with no plans to go out or make any purchases. I'll just enjoy some downtime and recharge for the upcoming week."
+        },
+        {
+            "date": "2024-10-21",
+            "user_prompt": "Today is 2024-10-21, Monday. Here is a summary of your account information:\n* You did gas refilling 1 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: Your pet suddenly becomes ill and needs to see the vet. Options: emergency exam fee ($150), exam plus medication and bloodwork ($600), emergency surgery and overnight stay ($3500), or try to nurse them at home (not recommended, $0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $12500.0.\n* Your running balance: 993.59.\n* Your available credit: 9006.41.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday, and I'm faced with an unexpected situation - my pet has fallen ill and needs to see the vet. I'm concerned about their health, and I want to make sure they receive the proper care. After considering the options, I've decided to go with the exam plus medication and bloodwork. It's a significant expense, but I think it's necessary to ensure my pet's well-being. I'll spend the day at the vet's office, waiting for the diagnosis and treatment. This evening, I'll be worried about my pet's recovery, but I'll try to stay positive and focus on their care."
+        },
+        {
+            "date": "2024-10-22",
+            "user_prompt": "Today is 2024-10-22, Tuesday. Here is a summary of your account information:\n* Reminder: An autopayment of $151.58 is posted today. Thank you! Please also pay attention to your debit card balance.\n* You did gas refilling 2 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 4 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: One of your streaming services announces a price hike. Options: accept the new price ($17/mo), downgrade to a plan with ads ($11/mo), switch to an annual plan ($180/yr), or cancel the subscription ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $12348.42.\n* Your running balance: 1442.03.\n* Your available credit: 8557.97.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm dealing with some financial adjustments. My autopayment has been posted, and I've also received news about a price hike from one of my streaming services. After considering the options, I've decided to downgrade to a plan with ads. It's not ideal, but it's a more affordable option that will help me manage my expenses. I'll spend the day reviewing my budget and making some adjustments to ensure I can cover all my necessary expenses. This evening, I'll unwind by listening to some jazz music and reading a book."
+        },
+        {
+            "date": "2024-10-23",
+            "user_prompt": "Today is 2024-10-23, Wednesday. Here is a summary of your account information:\n* You did gas refilling 3 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 5 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $12196.84.\n* Your running balance: 1301.99.\n* Your available credit: 8698.01.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm feeling like it's time to get out and do some errands. I'll spend the day running around, picking up a few things I need for the house and doing some grocery shopping to restock my pantry. I've been putting it off for a few days, but I think it's time to get some fresh produce and other essentials. This evening, I'll cook up something delicious and enjoy a quiet night in, maybe watching a documentary or a football game."
+        },
+        {
+            "date": "2024-10-24",
+            "user_prompt": "Today is 2024-10-24, Thursday. Here is a summary of your account information:\n* You did gas refilling 4 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $12196.84.\n* Your running balance: 1373.27.\n* Your available credit: 8626.73.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I'm feeling like it's time to take a break and do something I enjoy. I'll spend the day working on my classic car restoration project, trying to make some progress on the engine. I might also take a break and go for a walk or do some fishing to clear my mind. This evening, I'll host a small dinner party for some friends, cooking up some of my famous soul food dishes and enjoying some good company. It'll be a relaxing day with a mix of hobbies and socializing."
+        },
+        {
+            "date": "2024-10-25",
+            "user_prompt": "Today is 2024-10-25, Friday. Here is a summary of your account information:\n* You did gas refilling 5 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $12196.84.\n* Your running balance: 1429.26.\n* Your available credit: 8570.74.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm looking forward to the weekend. I'll spend the day running some errands, including stopping by the hardware store to pick up some supplies for my classic car restoration project. I might also grab a bite to eat at a local restaurant, trying out some new cuisine. This evening, I'll head home and relax, maybe watching a movie or listening to some music. It'll be a low-key day, with a focus on unwinding and preparing for the weekend."
+        },
+        {
+            "date": "2024-10-26",
+            "user_prompt": "Today is 2024-10-26, Saturday. Here is a summary of your account information:\n* You did gas refilling 6 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $12196.84.\n* Your running balance: 1537.64.\n* Your available credit: 8462.36.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm planning a relaxing day at home. I'll spend the morning listening to some jazz music and reading a book, enjoying a quiet morning to myself. Later, I might work on some cooking, trying out a new recipe for soul food. This evening, I'll watch a football game, cheering on my favorite team, the Colts. It'll be a low-key day, with a focus on rest and relaxation."
+        },
+        {
+            "date": "2024-10-27",
+            "user_prompt": "Today is 2024-10-27, Sunday. Here is a summary of your account information:\n* You did gas refilling 7 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: You are invited to a child's birthday party. Options: buy a popular toy as a gift ($30), give a larger gift like a LEGO set or scooter ($75), contribute to a big-ticket item the parents are saving for ($150), or have your child make a card ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $12196.84.\n* Your running balance: 1537.64.\n* Your available credit: 8462.36.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I'm attending a child's birthday party today. I want to get a gift that's thoughtful and suitable for the occasion. After considering the options, I've decided to buy a popular toy as a gift. It's a reasonable expense, and I think the child will appreciate it. I'll spend the day at the party, socializing with the other guests and enjoying the celebration. This evening, I'll head home and reflect on the day's events, feeling content and fulfilled."
+        },
+        {
+            "date": "2024-10-28",
+            "user_prompt": "Today is 2024-10-28, Monday. Here is a summary of your account information:\n* You did gas refilling 8 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $12196.84.\n* Your running balance: 1567.97.\n* Your available credit: 8432.03.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday, and I'm starting the week with a focus on my classic car restoration project. I'll spend the day working on the engine, trying to make some progress and get it running smoothly. I might also take a break and go for a walk or do some reading to clear my mind. This evening, I'll order some takeout and watch a documentary, unwinding after a productive day. As my debit card balance is sufficient to cover my credit balance, I'll make a payment to bring my credit balance down."
+        },
+        {
+            "date": "2024-10-29",
+            "user_prompt": "Today is 2024-10-29, Tuesday. Here is a summary of your account information:\n* You did gas refilling 9 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 4 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $11696.84.\n* Your running balance: 1093.33.\n* Your available credit: 8906.67.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm feeling like it's time to get out and do some errands. I'll spend the day running around, picking up some groceries and other essentials. I might also stop by the gas station to fill up my tank, as it's been a while since I last refilled. This evening, I'll head home and cook a simple meal, enjoying some quiet time to myself. I'll also think about my plans for the upcoming weekend, maybe considering a road trip or a visit to a local museum."
+        },
+        {
+            "date": "2024-10-30",
+            "user_prompt": "Today is 2024-10-30, Wednesday. Here is a summary of your account information:\n* You did gas refilling 0 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $11696.84.\n* Your running balance: 1169.83.\n* Your available credit: 8830.17.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm taking a break from errands and chores. I'll spend the day working on my jazz music collection, organizing my records and listening to some of my favorite albums. I might also take some time to read a book or work on a puzzle, enjoying some quiet and relaxing activities. This evening, I'll have a simple dinner at home, maybe cooking up some leftovers or making a sandwich. It'll be a low-key day, with a focus on unwinding and recharging."
+        },
+        {
+            "date": "2024-10-31",
+            "user_prompt": "Today is 2024-10-31, Thursday. Here is a summary of your account information:\n* You did gas refilling 1 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: Your back has been hurting from your work-from-home setup. Options: lumbar support pillow ($35), new mid-range ergonomic office chair ($250), standing desk converter ($400), or just keep using pillows ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $11696.84.\n* Your running balance: 1169.83.\n* Your available credit: 8830.17.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I've been noticing that my back has been hurting from my work-from-home setup. I think it's time to invest in a better chair to help alleviate the discomfort. After considering my options, I've decided to buy a new mid-range ergonomic office chair. It's a bit of an investment, but I think it'll be worth it in the long run for my health and productivity. I'll spend the day working from home and setting up my new chair, hoping it'll make a big difference. This evening, I'll take some time to relax and enjoy my new setup."
+        },
+        {
+            "date": "2024-11-01",
+            "user_prompt": "Today is 2024-11-01, Friday. Here is a summary of your account information:\n* You did gas refilling 2 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15696.84.\n* Your running balance: 1419.94.\n* Your available credit: 8580.06.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm looking forward to the weekend. I'll spend the day wrapping up any loose ends on my projects and preparing for a relaxing weekend. This evening, I'll meet up with some friends at a local jazz club, enjoying some live music and good company. We'll grab dinner at a nearby restaurant, and I'll treat myself to a nice meal. It'll be a great way to unwind and kick off the weekend."
+        },
+        {
+            "date": "2024-11-02",
+            "user_prompt": "Today is 2024-11-02, Saturday. Here is a summary of your account information:\n* You did gas refilling 3 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15696.84.\n* Your running balance: 1540.69.\n* Your available credit: 8459.31.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm planning a relaxing day at home. I'll spend the morning working on my classic car restoration project, trying to make some progress and get it running smoothly. This afternoon, I'll take a break and watch a football game, enjoying some snacks and beverages. This evening, I'll cook a simple meal at home, maybe trying out a new recipe or experimenting with some new flavors. It'll be a low-key day, with a focus on unwinding and recharging."
+        },
+        {
+            "date": "2024-11-03",
+            "user_prompt": "Today is 2024-11-03, Sunday. Here is a summary of your account information:\n* You did gas refilling 4 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: Your car's routine maintenance light comes on. Options: oil change ($80), oil change with tire rotation ($120), full synthetic service with diagnostics ($250), or ignore it for now ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $15696.84.\n* Your running balance: 1591.72.\n* Your available credit: 8408.28.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I'm planning a laid-back day. However, my car's routine maintenance light has come on, reminding me that it's time for some upkeep. I've decided to go for the oil change with tire rotation, as it's a good balance between cost and maintenance. I'll spend the morning dropping off my car at the mechanic and then pick it up later in the day. This afternoon, I'll work on some household chores and maybe do some reading or watch a movie. This evening, I'll cook a hearty dinner at home, enjoying some quiet time to myself."
+        },
+        {
+            "date": "2024-11-04",
+            "user_prompt": "Today is 2024-11-04, Monday. Here is a summary of your account information:\n* You did gas refilling 5 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15696.84.\n* Your running balance: 1711.91.\n* Your available credit: 8288.09.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday, and I'm starting the week with a focus on organization and planning. I'll spend the day catching up on paperwork, paying bills, and reviewing my finances. I might also make a payment on my credit card to keep my balance in check. This evening, I'll take some time to relax and unwind, maybe listening to some jazz music or reading a book. I'll keep dinner simple, maybe ordering some takeout or cooking a light meal."
+        },
+        {
+            "date": "2024-11-05",
+            "user_prompt": "Today is 2024-11-05, Tuesday. Here is a summary of your account information:\n* You did gas refilling 6 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1237.0.\n* Your available credit: 8763.0.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm feeling energized after a productive Monday. I'll spend the day working on my mechanical engineering projects, focusing on designing a new system for efficient public transportation. This afternoon, I'll take a break and go for a walk, enjoying the fresh air and clearing my mind. This evening, I'll meet up with some friends at a local coffee shop, discussing our shared interest in history and civil rights. We'll grab some coffee and snacks, and I'll enjoy the lively conversation."
+        },
+        {
+            "date": "2024-11-06",
+            "user_prompt": "Today is 2024-11-06, Wednesday. Here is a summary of your account information:\n* You did gas refilling 7 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1328.04.\n* Your available credit: 8671.96.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm planning a quiet day at home. I'll spend the morning working on my classic car restoration project, trying to make some progress on the engine. This afternoon, I'll take a break and watch a documentary about the history of the Civil Rights movement, something that's been on my mind lately. This evening, I'll cook a simple meal at home, maybe trying out a new soul food recipe. I'll keep the evening low-key, enjoying some jazz music and relaxing after a productive day."
+        },
+        {
+            "date": "2024-11-07",
+            "user_prompt": "Today is 2024-11-07, Thursday. Here is a summary of your account information:\n* You did gas refilling 8 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1399.34.\n* Your available credit: 8600.66.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I'm feeling like I need a break from the usual routine. I'll spend the day running some errands, including filling up my gas tank to make sure I'm all set for the next few days. This afternoon, I'll visit a local museum to learn more about the history of jazz music, something that's always fascinated me. This evening, I'll meet up with some friends at a nearby restaurant, enjoying some good food and company. We'll catch up on each other's lives and share some stories."
+        },
+        {
+            "date": "2024-11-08",
+            "user_prompt": "Today is 2024-11-08, Friday. Here is a summary of your account information:\n* You did gas refilling 0 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1500.85.\n* Your available credit: 8499.15.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm looking forward to a relaxing weekend. I'll spend the day working on some personal projects, including planning a road trip to explore the American South. This afternoon, I'll take a break and go fishing, enjoying the peacefulness of nature. This evening, I'll host a small dinner party at my home, inviting some close friends over to share a meal and some good company. I'll cook up some of my famous soul food dishes, and we'll enjoy some jazz music and conversation."
+        },
+        {
+            "date": "2024-11-09",
+            "user_prompt": "Today is 2024-11-09, Saturday. Here is a summary of your account information:\n* You did gas refilling 1 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1557.4.\n* Your available credit: 8442.6.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm planning a fun day out. I'll spend the morning attending a local jazz performance, enjoying the music and atmosphere. This afternoon, I'll meet up with some friends at a nearby park, where we'll have a picnic and catch up on each other's lives. This evening, I'll head back home and work on my classic car restoration project, trying to make some progress on the interior. I'll keep the evening low-key, maybe watching a movie or reading a book before bed."
+        },
+        {
+            "date": "2024-11-10",
+            "user_prompt": "Today is 2024-11-10, Sunday. Here is a summary of your account information:\n* You did gas refilling 2 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1668.45.\n* Your available credit: 8331.55.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I'm planning a relaxing day at home. I'll spend the morning watching a football game, cheering on my favorite team, the Colts. This afternoon, I'll work on some household chores, including laundry and cleaning. This evening, I'll cook a hearty dinner at home, maybe trying out a new recipe. I'll keep the evening quiet, maybe reading a book or listening to some music before bed. As the week comes to a close, I'll take some time to reflect on my finances and plan for the upcoming week, making sure I'm on track with my budget and goals."
+        },
+        {
+            "date": "2024-11-11",
+            "user_prompt": "Today is 2024-11-11, Monday. Here is a summary of your account information:\n* Holiday notification: Today is Veterans Day.\n* You did gas refilling 3 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1893.34.\n* Your available credit: 8106.66.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday, and I'm observing Veterans Day. I'll spend the day reflecting on the sacrifices made by those who have served our country. I'll visit a local memorial and attend a ceremony to honor their memory. This afternoon, I'll meet up with some friends at a nearby caf\u00e9, where we'll grab some coffee and discuss our plans for the upcoming week. Since it's a holiday, I'll take the evening off and enjoy some quiet time at home, maybe watching a movie or listening to some music. I'll also take a moment to review my finances and make sure I'm on track with my payments, including my credit card balance."
+        },
+        {
+            "date": "2024-11-12",
+            "user_prompt": "Today is 2024-11-12, Tuesday. Here is a summary of your account information:\n* You did gas refilling 4 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1403.76.\n* Your available credit: 8596.24.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm back to my usual routine. I'll spend the day working on my classic car restoration project, trying to make some progress on the exterior. This afternoon, I'll take a break and go for a walk, enjoying the fresh air and clearing my mind. This evening, I'll cook a simple meal at home and spend some time reading a book or listening to music. I've been thinking about planning a road trip to explore the American South, so I'll do some research and start making some plans. It'll be a relaxing day, with a mix of productivity and downtime."
+        },
+        {
+            "date": "2024-11-13",
+            "user_prompt": "Today is 2024-11-13, Wednesday. Here is a summary of your account information:\n* You did gas refilling 5 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1509.22.\n* Your available credit: 8490.78.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm feeling like I need a change of pace. I'll spend the day exploring a new part of town, visiting some local shops and galleries. This afternoon, I'll grab lunch at a new restaurant I've been wanting to try, and maybe do some people-watching. This evening, I'll head back home and work on my jazz music collection, organizing my records and listening to some of my favorite albums. I'll keep the evening low-key, enjoying some solo time and relaxing after a busy day. As I'm out and about, I might stumble upon some unique souvenirs or gifts, so I'll be on the lookout for those."
+        },
+        {
+            "date": "2024-11-14",
+            "user_prompt": "Today is 2024-11-14, Thursday. Here is a summary of your account information:\n* You did gas refilling 6 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $15196.84.\n* Your running balance: 1597.07.\n* Your available credit: 8402.93.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I'm thinking about the upcoming weekend. I'll spend the day running some errands, including picking up some dry cleaning and dropping off some library books. This afternoon, I'll meet up with a friend at a local caf\u00e9, where we'll catch up and discuss our plans for the weekend. This evening, I'll head back home and start making some plans for a road trip I've been wanting to take, researching some potential routes and destinations. I'll also take some time to review my budget and make sure I'm on track with my finances, including my credit card payments."
+        },
+        {
+            "date": "2024-11-15",
+            "user_prompt": "Today is 2024-11-15, Friday. Here is a summary of your account information:\n* You did gas refilling 7 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 4 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $19196.84.\n* Your running balance: 1625.2.\n* Your available credit: 8374.8.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm looking forward to the weekend. I'll spend the day working on my classic car restoration project, trying to make some progress on the engine. This afternoon, I'll take a break and go fishing at a nearby lake, enjoying the fresh air and trying to catch some fish for dinner. This evening, I'll head back home and cook a meal, maybe trying out a new recipe. I'll also take some time to relax and unwind, listening to some music or watching a movie. As the weekend approaches, I'm feeling more relaxed and ready to take on some new projects and activities."
+        },
+        {
+            "date": "2024-11-16",
+            "user_prompt": "Today is 2024-11-16, Saturday. Here is a summary of your account information:\n* You did gas refilling 8 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: Your yearly eye exam shows your prescription has changed. Options: order new lenses for your current frames ($120), get a new pair of glasses from an affordable online retailer ($200), buy designer frames from your optometrist ($550), or try to get by with your old glasses ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $19196.84.\n* Your running balance: 1718.05.\n* Your available credit: 8281.95.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm running some errands. I had my yearly eye exam yesterday, and it turns out my prescription has changed. I've decided to order new lenses for my current frames, as it's the most practical and cost-effective option. I'll spend the morning shopping for some new clothes and browsing a local bookstore. This afternoon, I'll meet up with some friends at a nearby park, where we'll go for a walk and catch up. This evening, I'll head back home and cook a meal, maybe trying out a new recipe. I'm feeling pretty laid-back today, just enjoying the weekend and taking it easy."
+        },
+        {
+            "date": "2024-11-17",
+            "user_prompt": "Today is 2024-11-17, Sunday. Here is a summary of your account information:\n* You did gas refilling 9 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $19196.84.\n* Your running balance: 1945.2.\n* Your available credit: 8054.8.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I'm taking it easy. I'll spend the day relaxing at home, watching some football and enjoying a quiet morning. This afternoon, I'll work on some cooking, trying out a new soul food recipe and making some lunch for the week. I might also do some light reading or listen to some jazz music, just unwinding and recharging for the week ahead. As the day comes to a close, I'll take some time to review my finances and make sure I'm on track with my budget, including my credit card payments. It's been a pretty low-key weekend, but I'm feeling refreshed and ready to take on the week."
+        },
+        {
+            "date": "2024-11-18",
+            "user_prompt": "Today is 2024-11-18, Monday. Here is a summary of your account information:\n* You did gas refilling 10 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $19196.84.\n* Your running balance: 1485.84.\n* Your available credit: 8514.16.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday, and I'm back to my routine. I'll spend the day working on my classic car restoration project, trying to make some progress on the interior. This afternoon, I'll take a break and go for a walk, enjoying the fresh air and clearing my mind. This evening, I'll head back home and cook a simple meal, maybe watching a movie or listening to some music afterwards. I've been thinking about planning a road trip to explore the American South, so I'll do some research and start making some plans. I might also stop by a gas station to fill up my tank, as it's been a while since I last refilled. It's going to be a productive day, with a mix of work and relaxation."
+        },
+        {
+            "date": "2024-11-19",
+            "user_prompt": "Today is 2024-11-19, Tuesday. Here is a summary of your account information:\n* You did gas refilling 0 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $19196.84.\n* Your running balance: 1581.63.\n* Your available credit: 8418.37.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm feeling creative. I'll spend the day working on my jazz music collection, organizing my records and listening to some of my favorite albums. This afternoon, I'll take a break and visit a local art gallery, admiring the artwork and maybe even purchasing a piece or two. This evening, I'll head back home and cook a meal, maybe trying out a new recipe. I've been thinking about hosting a dinner party for some friends, so I'll start making some plans and creating a guest list. It's going to be a relaxing day, with a focus on art and music."
+        },
+        {
+            "date": "2024-11-20",
+            "user_prompt": "Today is 2024-11-20, Wednesday. Here is a summary of your account information:\n* You did gas refilling 1 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $19196.84.\n* Your running balance: 1733.22.\n* Your available credit: 8266.78.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm taking a break from my usual activities. I'll spend the day attending a friend's jazz performance at a local venue, enjoying the music and socializing with friends. This evening, I'll grab dinner at a nearby restaurant, trying out a new cuisine. I've been feeling a bit tired lately, so I'll make sure to get a good night's rest and prepare for the rest of the week. I might also do some light browsing online, looking for some new books or music to add to my collection. It's going to be a low-key day, with a focus on relaxation and socializing."
+        },
+        {
+            "date": "2024-11-21",
+            "user_prompt": "Today is 2024-11-21, Thursday. Here is a summary of your account information:\n* You did gas refilling 2 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $19196.84.\n* Your running balance: 1804.55.\n* Your available credit: 8195.45.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I'm back to my routine. I'll spend the day working on my classic car restoration project, trying to make some progress on the exterior. This afternoon, I'll take a break and go to the library, researching some new techniques and browsing through some books on history. This evening, I'll head back home and cook a meal, maybe watching a documentary or a movie afterwards. I've been thinking about planning a trip to the Southern states, so I'll start looking into some historic sites and landmarks to visit. It's going to be a productive day, with a mix of work and learning."
+        },
+        {
+            "date": "2024-11-22",
+            "user_prompt": "Today is 2024-11-22, Friday. Here is a summary of your account information:\n* Reminder: An autopayment of $328.04 is posted today. Thank you! Please also pay attention to your debit card balance.\n* You did gas refilling 3 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 4 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $18868.8.\n* Your running balance: 1582.02.\n* Your available credit: 8417.98.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm feeling relieved that the autopayment has been taken care of. I'll spend the day running some errands, including picking up some groceries for the weekend. This afternoon, I'll meet up with some friends at a local caf\u00e9, catching up and socializing. This evening, I'll head back home and cook a meal, maybe listening to some music or watching a movie afterwards. I've been thinking about hosting a dinner party soon, so I'll start making some plans and creating a guest list. It's going to be a relaxing day, with a focus on socializing and preparing for the weekend."
+        },
+        {
+            "date": "2024-11-23",
+            "user_prompt": "Today is 2024-11-23, Saturday. Here is a summary of your account information:\n* You did gas refilling 4 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $18868.8.\n* Your running balance: 1652.93.\n* Your available credit: 8347.07.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm taking it easy. I'll spend the day watching some football, enjoying the game and relaxing at home. This afternoon, I might take a walk or do some light exercise, getting some fresh air and clearing my mind. This evening, I'll cook a simple meal, maybe ordering some takeout or trying out a new recipe. I've been thinking about my road trip plans, so I'll do some more research and start making some bookings. It's going to be a low-key day, with a focus on relaxation and leisure."
+        },
+        {
+            "date": "2024-11-24",
+            "user_prompt": "Today is 2024-11-24, Sunday. Here is a summary of your account information:\n* You did gas refilling 5 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $18868.8.\n* Your running balance: 1833.86.\n* Your available credit: 8166.14.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I'm taking a day to unwind. I'll spend the morning reading the newspaper and enjoying a leisurely breakfast. This afternoon, I'll work on my classic car restoration project, making some progress on the engine. This evening, I'll attend a jazz performance at a local venue, enjoying the music and socializing with friends. I might also stop by a bookstore, browsing through some new releases and picking up a few titles that catch my eye. It's going to be a relaxing day, with a mix of hobbies and entertainment."
+        },
+        {
+            "date": "2024-11-25",
+            "user_prompt": "Today is 2024-11-25, Monday. Here is a summary of your account information:\n* You did gas refilling 6 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $18868.8.\n* Your running balance: 1899.78.\n* Your available credit: 8100.22.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday, and I'm starting the week with a focus on planning and organization. I'll spend the day reviewing my finances, making sure I'm on track with my budget and expenses. This afternoon, I'll make a trip to the gas station, filling up my tank and getting ready for the week ahead. This evening, I'll cook a meal at home, maybe trying out a new recipe or experimenting with some new flavors. I've been thinking about my legacy project, so I'll start making some calls and reaching out to some contacts, seeing if I can make some progress on it. It's going to be a productive day, with a focus on planning and preparation."
+        },
+        {
+            "date": "2024-11-26",
+            "user_prompt": "Today is 2024-11-26, Tuesday. Here is a summary of your account information:\n* You did gas refilling 0 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: You decide to get into gardening. Options: a few indoor plants ($60), an outdoor raised garden bed kit ($180), a small greenhouse ($500), or decide you don't have a green thumb ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $18868.8.\n* Your running balance: 2013.06.\n* Your available credit: 7986.94.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm feeling inspired to try something new. I've decided to get into gardening, and I think I'll start small with a few indoor plants. I've always been fascinated by the idea of growing my own herbs and plants, and I think it will be a great hobby to relax and unwind. This afternoon, I'll head to the gardening store and pick out a few plants and some basic supplies. I'm looking forward to learning more about gardening and seeing how my plants grow. This evening, I'll spend some time reading up on gardening tips and watching some tutorials online. It's going to be a fun and educational day, with a focus on trying something new and exploring a new hobby."
+        },
+        {
+            "date": "2024-11-27",
+            "user_prompt": "Today is 2024-11-27, Wednesday. Here is a summary of your account information:\n* You did gas refilling 1 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 4 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $18868.8.\n* Your running balance: 2073.63.\n* Your available credit: 7926.37.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm taking a break from my usual routine. I'll spend the day watching some old movies and working on my classic car restoration project, trying to make some progress on the interior. This evening, I'll order some takeout and enjoy a quiet night in, maybe doing some reading or listening to some music. I've been thinking about hosting a dinner party soon, so I'll start making some plans and creating a guest list. I might also make a few calls to some friends and family, catching up and chatting about our plans for the holiday season. It's going to be a relaxing day, with a focus on leisure and socializing."
+        },
+        {
+            "date": "2024-11-28",
+            "user_prompt": "Today is 2024-11-28, Thursday. Here is a summary of your account information:\n* Holiday notification: Today is Thanksgiving Day.\n* You did gas refilling 2 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 5 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $18868.8.\n* Your running balance: 2099.5.\n* Your available credit: 7900.5.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thanksgiving Day, and I'm looking forward to a relaxing day with family and friends. I'll spend the morning cooking a traditional Thanksgiving meal, using some of my grandmother's old recipes. This afternoon, I'll host a small gathering at my home, enjoying good food and company. I might also watch some football or a movie, taking it easy and enjoying the holiday. Since I've already cooked a big meal, I won't need to do any additional shopping today. It's going to be a warm and festive day, with a focus on gratitude and socializing. I'll also take some time to reflect on the things I'm thankful for, and maybe make a few calls to loved ones who can't be here in person."
+        },
+        {
+            "date": "2024-11-29",
+            "user_prompt": "Today is 2024-11-29, Friday. Here is a summary of your account information:\n* You did gas refilling 3 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 6 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $22868.8.\n* Your running balance: 2099.5.\n* Your available credit: 7900.5.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm feeling refreshed after a relaxing Thanksgiving holiday. I'll spend the day running some errands, including picking up some groceries for the week ahead. I might also stop by a few stores to take advantage of some Black Friday sales, looking for some deals on gifts or household items. This evening, I'll meet up with some friends at a local jazz club, enjoying some live music and good company. It's going to be a fun and social day, with a focus on catching up with friends and getting some shopping done."
+        },
+        {
+            "date": "2024-11-30",
+            "user_prompt": "Today is 2024-11-30, Saturday. Here is a summary of your account information:\n* You did gas refilling 4 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $22868.8.\n* Your running balance: 2256.47.\n* Your available credit: 7743.53.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm looking forward to a relaxing day at home. I'll spend the morning working on my classic car restoration project, trying to make some progress on the exterior. This afternoon, I'll take a break and watch some football, enjoying the game and some snacks. I might also do some cooking, trying out a new recipe or experimenting with some new flavors. This evening, I'll have a quiet night in, maybe reading a book or listening to some music. It's going to be a low-key day, with a focus on relaxation and hobbies. I'll also take some time to review my finances and make sure I'm on track with my budget, considering making a payment on my credit card to keep my balance under control."
+        },
+        {
+            "date": "2024-12-01",
+            "user_prompt": "Today is 2024-12-01, Sunday. Here is a summary of your account information:\n* You did gas refilling 5 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: There's a sale on smart home devices. Options: smart speaker ($49.99), lighting kit ($129.99), smart thermostat ($249.99), or ignore the sale ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $22368.8.\n* Your running balance: 1777.0.\n* Your available credit: 8223.0.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I'm feeling laid-back after a relaxing weekend. I'll spend the morning browsing online, looking for some deals and discounts on smart home devices. I've been thinking about upgrading my home's technology, and I come across a sale on a smart speaker. I think it would be a great addition to my living room, and it's priced reasonably at $49.99. I'll go ahead and make the purchase, looking forward to trying out its features and integrating it with my other devices. This afternoon, I'll take some time to read up on some history books, learning more about the Civil Rights movement and its significance. This evening, I'll have a quiet dinner at home, maybe watching a documentary or a movie. It's going to be a chill day, with a focus on leisure and learning."
+        },
+        {
+            "date": "2024-12-02",
+            "user_prompt": "Today is 2024-12-02, Monday. Here is a summary of your account information:\n* You did gas refilling 6 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: One of your streaming services announces a price hike. Options: accept the new price ($17/mo), downgrade to a plan with ads ($11/mo), switch to an annual plan ($180/yr), or cancel the subscription ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $22368.8.\n* Your running balance: 1857.33.\n* Your available credit: 8142.67.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday, and I'm back to my routine after a relaxing weekend. I'll spend the morning responding to some emails and catching up on some work-related tasks. I also receive an notification from one of my streaming services about a price hike, and I decide to switch to an annual plan to save some money. I think it's still a valuable service, and I don't want to downgrade to a plan with ads or cancel it altogether. This afternoon, I'll work on my classic car restoration project, trying to make some progress on the engine. This evening, I'll have a quiet dinner at home, maybe watching a movie or listening to some jazz music. It's going to be a productive day, with a focus on work and hobbies."
+        },
+        {
+            "date": "2024-12-03",
+            "user_prompt": "Today is 2024-12-03, Tuesday. Here is a summary of your account information:\n* You did gas refilling 7 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $22368.8.\n* Your running balance: 2037.34.\n* Your available credit: 7962.66.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm feeling energized after a productive Monday. I'll spend the morning working on my mechanical engineering projects, trying to solve some complex problems and make some progress. This afternoon, I'll take a break and go for a walk, enjoying the fresh air and clearing my mind. I might also stop by a local coffee shop to grab a cup of coffee and do some people-watching. This evening, I'll meet up with some friends at a nearby restaurant, trying out some new soul food dishes and catching up on each other's lives. It's going to be a social day, with a focus on community and connection."
+        },
+        {
+            "date": "2024-12-04",
+            "user_prompt": "Today is 2024-12-04, Wednesday. Here is a summary of your account information:\n* You did gas refilling 8 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 4 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $22368.8.\n* Your running balance: 2078.61.\n* Your available credit: 7921.39.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm feeling focused on my hobbies today. I'll spend the morning working on my classic car restoration project, trying to make some progress on the interior. This afternoon, I'll take a break and listen to some jazz music, maybe even playing some records from my collection. I might also do some cooking, trying out a new recipe for fried chicken and collard greens. This evening, I'll have a quiet night in, maybe watching a documentary or reading a book about the history of the Civil Rights movement. It's going to be a low-key day, with a focus on relaxation and personal interests."
+        },
+        {
+            "date": "2024-12-05",
+            "user_prompt": "Today is 2024-12-05, Thursday. Here is a summary of your account information:\n* You did gas refilling 9 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $22368.8.\n* Your running balance: 2113.94.\n* Your available credit: 7886.06.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I'm feeling like I need to get out and about today. I'll spend the morning running some errands, including stopping by the gas station to fill up my tank. I've been putting it off for a while, but I don't want to wait until I'm running on fumes. This afternoon, I'll meet up with some friends at a local museum, checking out a new exhibit on the history of jazz music. This evening, I'll have a quiet dinner at home, maybe watching a movie or listening to some music. It's going to be a day of getting things done and enjoying some culture."
+        },
+        {
+            "date": "2024-12-06",
+            "user_prompt": "Today is 2024-12-06, Friday. Here is a summary of your account information:\n* You did gas refilling 0 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $22368.8.\n* Your running balance: 2220.12.\n* Your available credit: 7779.88.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm looking forward to the weekend. I'll spend the morning working on my mechanical engineering projects, trying to wrap up some loose ends before the weekend. This afternoon, I'll take a break and go fishing, enjoying the fresh air and trying to catch some fish for dinner. This evening, I'll have a quiet night in, maybe watching a movie or listening to some music. I'll also take some time to review my finances and make sure I'm on track with my budget. Since my credit balance is getting a bit high, I'll consider making a payment to keep my balance under control."
+        },
+        {
+            "date": "2024-12-07",
+            "user_prompt": "Today is 2024-12-07, Saturday. Here is a summary of your account information:\n* You did gas refilling 1 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: Your back has been hurting from your work-from-home setup. Options: lumbar support pillow ($35), new mid-range ergonomic office chair ($250), standing desk converter ($400), or just keep using pillows ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $21868.8.\n* Your running balance: 1730.27.\n* Your available credit: 8269.73.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm feeling a bit sore from my work-from-home setup. I've been noticing that my back has been hurting lately, and I think it's time to invest in a better ergonomic solution. After considering my options, I decide to purchase a new mid-range ergonomic office chair. I think it's a worthwhile investment for my health and productivity. This afternoon, I'll spend some time assembling the new chair and setting up my home office. I'll also take some time to work on my classic car restoration project, trying to make some progress on the interior. This evening, I'll have a quiet dinner at home, maybe watching a movie or listening to some jazz music."
+        },
+        {
+            "date": "2024-12-08",
+            "user_prompt": "Today is 2024-12-08, Sunday. Here is a summary of your account information:\n* You did gas refilling 2 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $21868.8.\n* Your running balance: 1980.85.\n* Your available credit: 8019.15.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I'm feeling relaxed and rejuvenated after a productive week. I'll spend the morning attending a local jazz performance, enjoying the music and atmosphere. This afternoon, I'll take a break and go for a walk, enjoying the fresh air and clearing my mind. I might also stop by a local bookstore, browsing through some books on history and engineering. This evening, I'll have a quiet dinner at home, maybe cooking some soul food and watching a football game. It's going to be a laid-back day, with a focus on leisure and relaxation."
+        },
+        {
+            "date": "2024-12-09",
+            "user_prompt": "Today is 2024-12-09, Monday. Here is a summary of your account information:\n* You did gas refilling 3 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $21868.8.\n* Your running balance: 2057.36.\n* Your available credit: 7942.64.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday, and I'm feeling refreshed after a relaxing weekend. I'll spend the morning working on my mechanical engineering projects, trying to make some progress on a complex problem. This afternoon, I'll take a break and work on my classic car restoration project, trying to finish up some details on the interior. I might also make some phone calls to catch up with friends and family. This evening, I'll have a quiet dinner at home, maybe watching a documentary or reading a book. It's going to be a productive day, with a focus on work and personal projects."
+        },
+        {
+            "date": "2024-12-10",
+            "user_prompt": "Today is 2024-12-10, Tuesday. Here is a summary of your account information:\n* You did gas refilling 4 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $21868.8.\n* Your running balance: 2075.81.\n* Your available credit: 7924.19.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm feeling focused on my personal projects today. I'll spend the morning working on my classic car restoration project, trying to make some progress on the exterior. This afternoon, I'll take a break and go for a walk, enjoying the fresh air and clearing my mind. I might also stop by a local record store, browsing through some vintage jazz albums. This evening, I'll have a quiet dinner at home, maybe cooking some soul food and listening to music. Since I've been using my credit card a bit more frequently, I'll also take some time to review my finances and consider making a payment to keep my balance under control."
+        },
+        {
+            "date": "2024-12-11",
+            "user_prompt": "Today is 2024-12-11, Wednesday. Here is a summary of your account information:\n* You did gas refilling 5 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $21668.8.\n* Your running balance: 2071.38.\n* Your available credit: 7928.62.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm feeling like I need a break from my projects today. I'll spend the morning watching a football game, relaxing and enjoying the excitement. This afternoon, I'll take a nap, recharging my batteries. I might also do some light reading, catching up on some history books or engineering journals. This evening, I'll have a quiet dinner at home, maybe ordering some takeout or cooking something simple. It's going to be a low-key day, with a focus on rest and relaxation."
+        },
+        {
+            "date": "2024-12-12",
+            "user_prompt": "Today is 2024-12-12, Thursday. Here is a summary of your account information:\n* You did gas refilling 6 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $21668.8.\n* Your running balance: 2090.03.\n* Your available credit: 7909.97.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I'm feeling like I need to get out and socialize today. I'll spend the morning meeting a friend at a local caf\u00e9, catching up on each other's lives and sharing stories. This afternoon, I'll attend a lecture on the history of the Civil Rights movement, something that's been a long-standing interest of mine. This evening, I'll head home and work on my mechanical engineering projects, trying to make some progress on a challenging problem. It's going to be a day that balances socializing with personal interests and productivity."
+        },
+        {
+            "date": "2024-12-13",
+            "user_prompt": "Today is 2024-12-13, Friday. Here is a summary of your account information:\n* You did gas refilling 7 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 4 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $25668.8.\n* Your running balance: 2109.71.\n* Your available credit: 7890.29.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm feeling like I'm ready for the weekend. I'll spend the morning working on my classic car restoration project, trying to finish up some details on the exterior. This afternoon, I'll take a break and go fishing, enjoying the fresh air and peacefulness of the water. This evening, I'll head home and start planning a road trip to explore some historic Civil Rights sites in the South, something I've been wanting to do for a while. I'll also make a payment on my credit card to keep my balance under control."
+        },
+        {
+            "date": "2024-12-14",
+            "user_prompt": "Today is 2024-12-14, Saturday. Here is a summary of your account information:\n* You did gas refilling 8 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 5 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $25368.8.\n* Your running balance: 1830.29.\n* Your available credit: 8169.71.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm feeling like I want to get out and enjoy the day. I'll spend the morning visiting a local museum, learning something new about the history of engineering and technology. This afternoon, I'll meet some friends at a jazz club, listening to some live music and having a good time. This evening, I'll head home and cook a nice dinner, maybe trying out some new soul food recipes. It's going to be a day that balances culture, socializing, and relaxation."
+        },
+        {
+            "date": "2024-12-15",
+            "user_prompt": "Today is 2024-12-15, Sunday. Here is a summary of your account information:\n* You did gas refilling 9 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $25368.8.\n* Your running balance: 1911.58.\n* Your available credit: 8088.42.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Sunday, and I'm feeling like I want to take it easy today. I'll spend the morning watching a football game, relaxing and enjoying the excitement. This afternoon, I'll take a walk around the neighborhood, getting some fresh air and clearing my mind. I might also do some light reading, catching up on some books or magazines. This evening, I'll have a quiet dinner at home, maybe cooking something simple or ordering some takeout. Since I filled up on groceries yesterday, I won't need to go shopping today. It's going to be a low-key day, with a focus on rest and relaxation."
+        },
+        {
+            "date": "2024-12-16",
+            "user_prompt": "Today is 2024-12-16, Monday. Here is a summary of your account information:\n* You did gas refilling 10 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 1 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $25368.8.\n* Your running balance: 1938.88.\n* Your available credit: 8061.12.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Monday, and I'm feeling like I need to get back into my routine. I'll spend the morning working on my mechanical engineering projects, trying to make some progress on a challenging problem. This afternoon, I'll take a break and go to a local coffee shop, grabbing a cup of coffee and doing some people-watching. I might also stop by a nearby bookstore, browsing through some new releases and looking for inspiration. This evening, I'll head home and work on my classic car restoration project, trying to finish up some details on the interior. It's going to be a day that balances productivity with relaxation and creativity."
+        },
+        {
+            "date": "2024-12-17",
+            "user_prompt": "Today is 2024-12-17, Tuesday. Here is a summary of your account information:\n* You did gas refilling 11 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 2 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $25368.8.\n* Your running balance: 1964.97.\n* Your available credit: 8035.03.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Tuesday, and I'm feeling like I need to get some errands done. I'll spend the morning driving to a nearby gas station to fill up my car, making sure I have enough fuel for the rest of the week. This afternoon, I'll head to a local hardware store, picking up some supplies for my classic car restoration project. I might also stop by a nearby record store, browsing through some new jazz releases and looking for some inspiration. This evening, I'll head home and cook a nice dinner, maybe trying out some new recipes. It's going to be a day that balances practical tasks with personal interests."
+        },
+        {
+            "date": "2024-12-18",
+            "user_prompt": "Today is 2024-12-18, Wednesday. Here is a summary of your account information:\n* You did gas refilling 0 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 3 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: A pipe starts leaking under your sink. Options: DIY fix from the hardware store ($50), an emergency plumber visit ($250), plumber visit plus new faucet ($650), or just use a bucket for now ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $25368.8.\n* Your running balance: 2036.22.\n* Your available credit: 7963.78.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Wednesday, and I'm feeling like I need to tackle a unexpected problem. I woke up to find a pipe leaking under my sink, and I know I need to take care of it ASAP. As a mechanical engineer and a DIY enthusiast, I'm confident I can fix it myself with the right tools. I'll head to the hardware store to pick up the necessary supplies, and then spend the afternoon fixing the leak. I'll also make sure to clean up the mess and check for any other potential issues. This evening, I'll take it easy and watch a football game, feeling satisfied that I was able to fix the problem myself. I'm choosing the DIY route to save money and because I enjoy hands-on projects."
+        },
+        {
+            "date": "2024-12-19",
+            "user_prompt": "Today is 2024-12-19, Thursday. Here is a summary of your account information:\n* You did gas refilling 1 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 4 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: A charity you support is having a donation drive. Options: small one-time donation ($25), become a monthly supporter ($30/mo), major gift for a specific project ($250), or offer to volunteer your time instead ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $25368.8.\n* Your running balance: 2087.02.\n* Your available credit: 7912.98.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Thursday, and I'm feeling like I want to give back to my community. I've been supporting a local charity for a while now, and I'm happy to hear they're having a donation drive. As someone who values financial stability and responsible giving, I've decided to make a small one-time donation of $25. I believe this amount will make a difference without putting a strain on my own finances. This afternoon, I'll spend some time responding to emails and catching up on some reading, and then this evening, I'll attend a jazz performance at a local club, enjoying some live music and socializing with friends. It's going to be a day that balances personal fulfillment with relaxation and entertainment."
+        },
+        {
+            "date": "2024-12-20",
+            "user_prompt": "Today is 2024-12-20, Friday. Here is a summary of your account information:\n* You did gas refilling 2 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 5 days ago. A normal frequency will be 1x per 1-2 weeks.\n* A random event occurs: A new gaming console is released. Options: digital edition ($449.99), standard edition ($499.99), bundle ($599.99), or decide to wait ($0). Please make your decision based on your user and financial persona. You must respond to this in your trajectory plan and transactions.\n* Your current debit card balance is $25368.8.\n* Your running balance: 2133.73.\n* Your available credit: 7866.27.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Friday, and I'm feeling like I want to unwind after a long week. I've been hearing about the new gaming console that just came out, but as a 70-year-old retired engineer, I'm not really into gaming. I'd rather spend my free time working on my classic car restoration project or listening to jazz music. This afternoon, I'll head to the library to return some books and pick up some new ones, and then this evening, I'll cook a nice dinner at home and watch a movie. I'm not tempted by the new gaming console, and I'd rather save my money for something that truly brings me joy. It's going to be a relaxing day, with a focus on simple pleasures."
+        },
+        {
+            "date": "2024-12-21",
+            "user_prompt": "Today is 2024-12-21, Saturday. Here is a summary of your account information:\n* You did gas refilling 3 days ago. A normal frequency will be 1x per 2-4 weeks.\n* You did grocery shopping 0 days ago. A normal frequency will be 1x per 1-2 weeks.\n* Your current debit card balance is $25368.8.\n* Your running balance: 2179.4.\n* Your available credit: 7820.6.\nRemember the 200-word trajectory plan shall balance routine activities with novel experiences, and balance work with rest. Avoid repetitive activities and vary the character's routine to make their week feel more natural. The transactions must closely align the trajectory plan.",
+            "trajectory_plan": "It's Saturday, and I'm feeling like I want to get out and enjoy the day. I'll spend the morning working on my classic car restoration project, trying to make some progress on the engine. This afternoon, I'll take a break and go for a walk in the nearby park, enjoying the fresh air and scenery. I might also stop by a local record store, browsing through some new jazz releases and looking for some inspiration. This evening, I'll head to a friend's house for a dinner party, enjoying some good food and company. It's going to be a day that balances productivity with relaxation and socializing."
+        }
+    ]
+}
