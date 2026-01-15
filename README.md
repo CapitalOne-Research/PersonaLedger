@@ -2,9 +2,9 @@
 
 <p align='center' style="text-align:center;font-size:1.25em;">
     <a href="https://dhyuan99.github.io/" target="_blank" style="text-decoration: none;">Dehao Yuan</a><sup>1</sup>&nbsp;&nbsp;
-    <a href="https://scholar.google.com/citations?user=FeCagRUAAAAJ&hl=en" target="_blank" style="text-decoration: none;">Doron L Bergman</a><sup>1</sup>&nbsp;&nbsp;
-    <a href="https://www.stefantesliuc.com/about" target="_blank" style="text-decoration: none;">Stefan Tesliuc</a><sup>1</sup>&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=emHB_OEAAAAJ&hl=en" target="_blank" style="text-decoration: none;">Tyler Farnan</a><sup>1</sup>&nbsp;&nbsp;
+    <a href="https://www.stefantesliuc.com/about" target="_blank" style="text-decoration: none;">Stefan Tesliuc</a><sup>1</sup>&nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=FeCagRUAAAAJ&hl=en" target="_blank" style="text-decoration: none;">Doron L Bergman</a><sup>1</sup>&nbsp;&nbsp;
     <a href="https://yulun-rayn.github.io/" target="_blank" style="text-decoration: none;">Yulun Wu</a><sup>1</sup>&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=EcHTiyIAAAAJ&hl=en" target="_blank" style="text-decoration: none;">Xiaoyu Liu</a><sup>2</sup>&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=UKAsIsUAAAAJ&hl=en" target="_blank" style="text-decoration: none;">Minghui Liu</a><sup>3</sup>&nbsp;&nbsp;
@@ -17,13 +17,13 @@
     <sup>2</sup>Google Inc. &nbsp;&nbsp;<br>
     <sup>3</sup>University of Maryland, College Park,&nbsp;&nbsp;
     <br><br>
-    <a href="" target="_blank" style="text-decoration: none;">[Paper]</a> &nbsp;&nbsp
-    <a href="" target="_blank" style="text-decoration: none;">[Dataset]</a> &nbsp;&nbsp
+    <a href="https://arxiv.org/abs/2601.03149" target="_blank" style="text-decoration: none;">[Paper]</a> &nbsp;&nbsp
+    <a href="https://huggingface.co/datasets/capitalone/PersonaLedger" target="_blank" style="text-decoration: none;">[Dataset]</a> &nbsp;&nbsp
     <a href="https://github.com/CapitalOne-Research/PersonaLedger" target="_blank" style="text-decoration: none;">[Code]</a> &nbsp;&nbsp
     <br>
 </p>
 
-**For code:** [THIS]() generates PersonaLedger; [THIS]() evaluates 14 models on PersonaLedger.
+**For code:** [THIS](./generation) generates PersonaLedger; [THIS](./evaluation) evaluates 14 models on PersonaLedger.
 
 <div align="center">
   <img src="./image.jpg" width="100%" alt="PersonaLedger Architecture">
@@ -68,4 +68,13 @@
 
 ### Citation
 ```
+@misc{yuan2026personaledgergeneratingrealisticfinancial,
+      title={PersonaLedger: Generating Realistic Financial Transactions with Persona Conditioned LLMs and Rule Grounded Feedback}, 
+      author={Dehao Yuan and Tyler Farnan and Stefan Tesliuc and Doron L Bergman and Yulun Wu and Xiaoyu Liu and Minghui Liu and James Montgomery and Nam H Nguyen and C. Bayan Bruss and Furong Huang},
+      year={2026},
+      eprint={2601.03149},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.03149}, 
+}
 ```

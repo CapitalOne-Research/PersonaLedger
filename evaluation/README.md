@@ -10,7 +10,7 @@ We'd like to express gratitude to the authors of this library [Time-Series-Libra
 pip install -r requirements.txt
 ```
 
-2. Prepare Data. Download the data from [this link](), or use the curated benchmarking suite in this repository [`../generation/generated_transactions/raw_generation`](../generation/generated_transactions/raw_generation). Put the data under `dataset` so that the file structure looks like
+2. Prepare Data. Download the data from [this link](https://huggingface.co/datasets/capitalone/PersonaLedger), or use the curated benchmarking suite in this repository [`../generation/generated_transactions/raw_generation`](../generation/generated_transactions/raw_generation). Put the data under `dataset` so that the file structure looks like
 ```
 | - evaluation
   | - data_provider
