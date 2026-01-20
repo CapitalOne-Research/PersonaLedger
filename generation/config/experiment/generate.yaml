@@ -1,0 +1,12 @@
+name: "generate"
+num_transactions: 1095
+max_tokens: 4096
+temperature: 0.7
+top_p: 0.9
+top_k: 20
+json_name: "000000"
+save_freq: 1
+lm_provider_name: "LocalServer"
+start_idx: 0
+end_idx: 1
+random_event_p: 0.3

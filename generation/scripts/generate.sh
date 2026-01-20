@@ -1,0 +1,1 @@
+python main.py experiment=generate experiment.json_name="000000" experiment.start_idx=0 experiment.end_idx=250

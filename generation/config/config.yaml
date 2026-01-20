@@ -1,0 +1,17 @@
+defaults:
+  - _self_
+  - experiment: ??? # this means a compulsory input.
+
+host: "localhost"
+port: 8000
+user_id: 0
+context_days: 7
+
+model:
+  model_id: "../70B"
+  tensor_parallel_size: 8
+
+data:
+  persona_path: "./personas/nemotron_persona"
+  augmented_persona_path: "./personas/augmented_persona"
+  export_path: "generated_transactions/"
