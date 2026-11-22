@@ -176,7 +176,7 @@ class TaskCreation:
     def insolvency_prediction(self):
         train_df, test_df, labels = [], [], {}
         global_seq_id_offset = 0
-        for user_id in tqdm(range(self.largest_user_id)):
+        for user_id in tqdm(range(self.largest_user_id + 1)):
             transactions_df = self.get_transactions_by_user_id(user_id)
             transactions_df = self.label_seq_id_by_month(transactions_df, remove_last_seq_id=True)
             train = np.random.uniform() < self.train_ratio
@@ -197,7 +197,7 @@ class TaskCreation:
     def identity_theft(self):
         train_df, test_df, labels = [], [], None
         global_seq_id_offset = 0
-        for user_id in tqdm(range(self.largest_user_id)):
+        for user_id in tqdm(range(self.largest_user_id + 1)):
             transactions_df = self.get_transactions_by_user_id(user_id)
             transactions_df = self.label_seq_id_by_month(transactions_df, remove_last_seq_id=False)
             train = np.random.uniform() < self.train_ratio
